@@ -41,6 +41,8 @@ Prefix = ["Ah non", "Ah oui", "Certes", "En effet", "D'accord", "Non", "Oui", "A
     "C'est certain", "Drôle", "Mais non", "Mais oui", "J'avoue", "Je plussoie", "Tes sûr"
 ]
 
+ponctuation = [ ".", " ?", " !" ]
+
 def create_connection(db_file):
     global conn
     
@@ -255,12 +257,13 @@ def main():
                             proposition = liste_messages.pop(indicepif)
                             phrase += ", "
                             phrase += proposition
-                        phrase += ". "
+                        #phrase += ". "
+                        phrase += random.choice(ponctuation) +" "
                         reponse += phrase.capitalize()
 
                     # Prefix ?
                     if(random.randint(1,5) == 2):
-                        reponse = random.choice(Prefix)+ " ? " + reponse
+                        reponse = random.choice(Prefix)+ random.choice(ponctuation) + " " + reponse
 
                     print(reponse)
 
