@@ -8,6 +8,7 @@ import html
 import re
 import random
 import sqlite3
+import dictons
 from sqlite3 import Error
 
 
@@ -32,6 +33,13 @@ sql_create_tribune_login_index = """ CREATE INDEX IF NOT EXISTS idx_login
 sql_select_posts = """ SELECT * from tribune where id>? and id<=? ; """
 
 sql_select_random_posts = """ SELECT message from tribune where id!=? ORDER BY RANDOM() LIMIT 1; """
+
+conjonctions = ["mais", "ou", "et", "donc", "or", "ni", "car"]
+
+Prefix = ["Ah non", "Ah oui", "Certes", "En effet", "D'accord", "Non", "Oui", "Ah bon", "pourquoi", "Tu crois",
+    "Ok", "Pas certain", "Sûrement", "Bien sûr", "Pas d'accord", "Ah ouais", "Pt'être bien", "Tu veux rire",
+    "C'est certain", "Drôle", "Mais non", "Mais oui", "J'avoue", "Je plussoie", "Tes sûr"
+]
 
 def create_connection(db_file):
     global conn
@@ -165,7 +173,14 @@ def main():
     global last_id
     global previous_id
 
-    sqlconn = create_connection("tribune.db")
+    liste_dictons = []
+
+    for dicton in dictons.dictons:
+        liste_dictons.extend(explode_message(clean_message(dicton)))
+
+    random.shuffle(liste_dictons)
+
+    sqlconn = create_connection("slybot_linuxfr/tribune.db")
 
     # create tables
     if sqlconn is not None:
@@ -220,6 +235,15 @@ def main():
                     #Nombre de propositions par phrase.
                     longphrasemax = random.randint(1,5)
 
+                    # Test, 1/10 est une citation
+                    citation = False
+                    if(random.randint(1,10) == 5):
+                        citation = True
+
+                        liste_messages = liste_dictons
+                        nbphrases = random.randint(1,2)
+                        longphrasemax = random.randint(1,2)
+
 
                     reponse = ""
 
@@ -233,6 +257,10 @@ def main():
                             phrase += proposition
                         phrase += ". "
                         reponse += phrase.capitalize()
+
+                    # Prefix ?
+                    if(random.randint(1,5) == 2):
+                        reponse = random.choice(Prefix)+ " ? " + reponse
 
                     print(reponse)
 
