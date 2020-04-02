@@ -242,505 +242,422 @@ dictons = ["L'année bissextile soyez fin, semez du chanvre au lieu du lin",
 "Mars aride, Avril humide, Mai tenant de tous les deux, Présagent l'an plantureux.",
 "En mai rosée, en mars grésil, Pluie abondante au mois d'avril, Le laboureur est content, Plus que s'il gagnait cent écus.",
 "Pluie de mai, Vache à lait.",
+"La rosée du mois de mai, Rend le laboureur gai.",
+"Mai froid n'enrichit personne, Mais il est excellent quand il tonne.",
+"Mai jardinier, Ne comble pas le grenier.",
+"Le froment sera mal nourri, Si mai ne voit sa fleur et son épi.",
+"Chaleur de mai, Verdit la haie.",
+"Mai frais et venteux, Fait l'an plantureux.",
+"Au mois de mai, Voleurs sont nés.",
+"Mars venteux et avril pluvieux, Font mai gai et gracieux.",
+"Gelée en avril et mai, Misère prédit au vin.",
+"En avril si gelée vient, Elle apporte pain et vin.",
+"Avril pluvieux, mais soleilleux, Rendent le paysan orgueilleux, et l'usurier soucieux.",
+"Au mois d'avril, Tout oiseau fait son nid, Hormis la caille et la perdrix, Et le rossignol joli.",
+"Au mois d'avril, N'enlève pas un fil, Au mois de mai, Fait ce qu'il te plaît, Mais encore je ne sais.",
+"En avril, nuée, En mai rosée.",
+"D'avril les ondées, Font les fleurs de mai.",
+"Gelée d'avril ou mai, Misère nous prédit au vrai.",
+"Avril pluvieux et mai venteux, Ne rendent pas le paysan disetteux.",
+"Avril pleut aux hommes, Mai pleut aux bêtes.",
+"Au mois d'avril, La chèvre rit, Les buissons bourgeonnent.",
+"L'ouaille et l'abeille en avril font leur deuil.",
+"Nul avril sans épis.",
+"Il n'est d'avril si beau, Qui n'ait de neige à son chapeau.",
+"S'il tonne en avril, Prépare ton baril.",
+"Au mois d'avril, Toute bête change de poil.",
+"L'avoine d'avril, C'est pour les brebis.",
+"Les poussins du mois d'avril, Sur la gerbe font leur nid.",
+"Les poussins du mois d'avril, Sont toujours rabougris.",
+"Avril et mai, Sont la clé de l'année.",
+"Avril a trente jours, S'il pleuvait durant trente et un, Il n'y aurait mal pour aucun.",
+"Ce n'est jamais avril, Si le coucou ne l'a dit.",
+"Le vent d'avril, N'a pas d'abri.",
+"Quand novembre aura fleurs nouvelles, Morte saison sera cruelle.",
+"Quand l'eau sort au mois mort, Toute l'année, elle sort.",
+"Quand il tonne entre Toussaint et Noël, l'hiver est en retard.",
+"Quand en mars il tonne, Bacchus remplit la tonne.",
+"Quand en mars il tonne, L'amande est bonne.",
+"Quand en mars il tonne, L'année sera bonne.",
+"Autant de brouillard en mars, Autant d'orages en été.",
+"Gelée de mars, Tonnerre en avril.",
+"Quand il gèle en mars, il gèle autant en mai.",
+"Neige de mars, brûle le bourgeon.",
+"Jamais pluie de printemps n'a passé pour mauvais temps.",
+"Printemps tardif, précoce hiver.",
+"Printemps secs, étés pluvieux.",
+"Pour la Saint-Joseph, mon cousin, Taille les arbres du jardin.",
+"Le chaud à la Saint-Joseph, L'été sera bref.",
+"Pour la Saint-Joseph, beau temps, Promesse de bon an.",
+"A la Saint-Grégoire, tonds le mouton.",
+"S'il gèle aux quarante martyrs, Il gèlera encore quarante nuits.",
+"Si février a de gentilles filles, Mars les lui pille.",
+"Si février se fievrotte, Mars marmotte.",
+"Le temps de Saint-Gontran, Voit l'hirondelle arrivant.",
+"Soit au début soit à la fin, Mars nous montre son venin.",
+"Si mars commence en courroux, Il finira tout doux, tout doux.",
+"Quand il tonne en mars, les vaches sont tirées.",
+"Mars venteux, Pommiers plantureux.",
+"Neige de mars, Vaut un parc.",
+"Quand mars bien mouillé sera, Bien du lin il te donnera.",
+"Pluie de mars, N'engraisse ni oie ni jars.",
+"Mars, marseau, Chaque brebis avec son agneau.",
+"Si le seigle est sans épis, Au mois de mars c'est tant pis.",
+"Quand le mois de mars est poussiéreux, Le bouvier devient",
+"Mars martèle, Avril coutelle.",
+"A mars poudreux, Avril pluvieux.",
+"Quand mars fait avril, Avril fait mars.",
+"Entre mars et avril, On sait si le coucou est mort ou en vie.",
+"Mars bon ou méchant, Ton boeuf à l'herbe, ton chien dedans.",
+"En février, signe de beau, Quand les pies bâtissent haut.",
+"Si les mouches dansent en février, Ménage ton foin dans ton grenier.",
+"L'avoine de février emplit le grenier.",
+"L'automne est bonne quand mars la sonne, Elle est encore meilleure quand février l'entonne.",
+"Tonnerre en février, Fait tenir toute l'huile en une cuiller.",
+"En février, s'il tonne, Point de cidre en la tonne.",
+"Tonnerre de février remplit ton cellier.",
+"Lune nouvelle au Mardi gras, Le tonnerre peu après entendras.",
+"Quand le loup sèche sa paille, Il fera beau pendant quarante jours.",
+"Si février est chargé d'eau, Le temps n'en sera que plus beau.",
+"A la Sainte-Elisabeth, Tout ce qui porte fourrure n'est point bête.",
+"La neige de février, Est de l'eau dans un panier.",
+"En février, La neige tient dans un panier.",
+"Quand Mardi gras est de vert vêtu, Pâques met des habits blancs.",
+"Carnaval au soleil, Pâques au feu.",
+"A la Saint-Blaise, De la neige jusqu'à la queue de l'âne.",
+"A la Saint-Blaise, L'hiver s'apaise.",
+"Quand il pleut pour la Chandeleur, Il pleut pendant quarante jours.",
+"Chandeleur trouble, L'hiver redouble.",
+"Chandeleur noire, L'hiver fait son devoir.",
+"Chandeleur froide, hiver joyeux.",
+"Chandeleur couverte, Quarante jours de perte.",
+"S'il pleut pour la Chandeleur, Il y aura beaucoup de cire et de miel.",
+"Si la Chandeleur est brumeuse, Il y aura beaucoup d'amandes.",
+"Quand le soleil de la Chandeleur fait lanterne, Quarante jours après, il hiverne.",
+"Quand pour la Chandeleur, le soleil luit, Quarante jours d'hiver suivent.",
+"A la Chandeleur, pluvieuse ou claire, Quarante jours d'hiver avons",
+"Chandeleur claire, Laisse l'hiver derrière.",
+"A la Chandeleur, L'hiver cesse ou prend vigueur.",
+"Mois de février, le plus petit et le plus diable.",
+"Quand février n'a pas de grand froid, Le vent dominera tous les autre mois.",
+"Qui taille sa vigne en février, N'a besoin de corbeille ni de panier.",
+"En février le tonnerre, Fait tenir l'huile dans une cuillère.",
+"Mieux vaut un renard au poulailler, Qu'un homme en chemise en février.",
+"Neige de février, Brûle le blé.",
+"Neige de février, Tient comme l'eau dans un panier.",
+"Neige de février, Fuit comme un lévrier.",
+"Si février est sec et chaud, Garde du foin pour tes chevaux.",
+"Oeuf de février, Oeuf de fumier.",
+"Le mois de février, Est bon agnelier.",
+"Si février n'a ni pluie ni giboulées, Tous les mois de l'année seront ennuyés.",
+"Si février commence en lion, Il finit comme un mouton.",
+"A la Sainte-Agathe, Le temps se gâte.",
+"Jamais février n'a passé, Sans voir le groseillier feuillé.",
+"Il ne faut pas que février, Laisse sans feuille le groseillier",
+"Si février ne «févrière» pas, Tout mois de l'an, peu ou prou, le fera.",
+"Mieux vaut un loup dans son troupeau, Qu'un mois de février beau.",
+"Si février n'a ses bourrasques, Tous les mois feront des frasques.",
+"Brumes d'octobre et pluvieux novembre, Font ensemble un bon décembre.",
+"Quand il tonne en janvier, Il tonne tous les mois de l'année.",
+"Vent en janvier, pluies en juillet.",
+"Quand janvier est bon laboureur, Février n'est pas son frère.",
+"En janvier, la neige s'assied comme un cavalier, En février, elle fuit comme un chien lévrier.",
+"S'il ne neige pas en janvier, Il neigera en mai et avril.",
+"Si l'hiver n'arrive pas en janvier, Il arrive le 2 février.",
+"Quand il tonne en janvier, L'hiver est avorté.",
+"Tonnerre en janvier, Récolte en quantité.",
+"Janvier détrempé, Signe de cherté.",
+"Quand il ne pleut pas en janvier, On doit étayer le grenier.",
+"Quand il pleut et il neige, S'ouvrent les portes de Saint-Pierre.",
+"Quand d'octobre vient la fin, Toussaint est au matin.",
+"En janvier, le froid je te le recommande.",
+"Quand il pleut et il fait soleil, S'ouvrent les portes de Saint-Paul.",
+"A la conversion de Saint-Paul, L'hiver se rompt le col.",
+"A la Saint-Vincent, L'hiver meurt ou reprend",
+"Si le jour de la Saint-Vincent le soleil est clairet beau, On aura plus de vin que d'eau.",
+"Le jour à la Saint-Antoine, A augmenté d'un dîner de moine.",
+"Regarde comment sont menées, Depuis Noël douze journées, Car en suivant ces douze jours, Les douze mois feront leur cours.",
+"Si la grive chante au mois de janvier, Bouvier prend garde à ton grenier.",
+"Pluie aux rois, Blé jusqu'au toit.",
+"Quand le soleil brille le jour de l'an, C'est signe de beaucoup de gland.",
+"Sec janvier, Heureux fermier.",
+"En août, le vent est fou.",
+"C'est le mois d'août, Qui donne bon goût.",
+"On ne sait si juillet est bon qu'après, faîtes la moisson.",
+"Les abeilles en juillet, Ne valent grain de millet.",
+"Juillet ensoleillé, Remplit cave et grenier.",
+"Juillet doit rôtir ce que septembre mûrira.",
+"Juillet, c'est le mois de la moisson, Vite on dépouille les sillons.",
+"En juin, juillet et août, Ni femme, ni choux.",
+"Avril, quelques nids, Mai, ils sont tous faits, Juin, ils sont biens communs, Juillet, ils sont tous cueillis.",
+"Au mois de juin et de juillet, Qui se marie, fort peu fait.",
+"Au mois de juillet, on met la faux au sillon.",
+"Au mois de juillet, Ni veste, ni corset.",
+"Juin larmoyeux, Rend le paysan joyeux.",
+"Temps trop humide en juin, Rend paysan chagrin.",
+"A Sainte-Clothilde de fleur en buisson, Abeille butine à foison.",
+"Temps humide de juin, Fait chagrin.",
+"A Saint-Félix, Tous les lilas sont fleuris.",
+"Rosée de mai vaut chariot de roi.",
+"Mars avec ses marteaux, Dans leur mère tue leur veaux.",
+"les plus beaux mois de l'année.",
+"En mars, quand le merle a sifflé, L'hiver s'en est allé.",
+"En mars, quand il tonne chacun s'en étonne.",
+"En mars, quand il fait beau, Prends ton manteau.",
+"En mars, manteau de neige dans les prés, Manteau de foin prochain",
+"En mars, firmament très éloigné, Changement de temps peu éloigné.",
+"Des fleurs qui s'ouvrent en mars, On n'a que le regard.",
+"Des fleurs que mars verra, Peu de fruits on mangera.",
+"Des fleurs de mars ne tient pas compte, Non plus que des filles sans honte.",
+"Autant de gelées en mars, Autant de rosées en avril.",
+"Au commencement, à la fin, mars a du poison.",
+"Autant de brumes en mars, autant de fruits en mai.",
+"Autant de brouillard en mars que de gelées en mai.",
+"En février toute oie de bonne race pond sur le fumier.",
+"En février, les agneaux, Naissent plus beaux.",
+"En février, La feuille au groseiller.",
+"Crapaud qui chante en février a l'hiver derrière lui.",
+"Beau février, C'est disette au grenier.",
+"A mi-février, Mi-grenier.",
+"Pluie qui dure en janvier, Suffit pour toute l'année.",
+"On a vu le plus mauvais temps, Quand janvier montre les dents.",
+"Neige de janvier, Vaut fumier.",
+"Neige en janvier, Blé au grenier.",
+"L'or du soleil en janvier, Est or que l'on ne doit envier.",
+"Les hivers les plus froids, Sont ceux qui prennent vers les Rois.",
+"En février, civelles, En mars, bonnes et belles, En avril, fi d'elles.",
+"Le mauvais an, Entre en nageant.",
+"Janvier sec et sage, Est un bon présage.",
+"Janvier ne veut pas, Voir pisser un rat.",
+"Janvier frileux, Gèle la merlesse sur les oeufs.",
+"Janvier d'eau chiche fait le paysan riche.",
+"Janvier amasse les souches, Février les brûle toutes.",
+"Il vaut mieux voir un voleur dans son grenier, Qu'un laboureur en chemise en janvier.",
+"Garde-toi du printemps de janvier!",
+"En janvier, le paysage n'a rien.",
+"Dieu te garde d'un bon janvier.",
+"Cadeau de janvier, Ingratitude de février.",
+"Brouillard en janvier, Froid en mai.",
+"Brouillard en janvier, Année mouillée.",
+"Brouillard en janvier, Année ensoleillée.",
+"Beaux jours de janvier trompent l'homme en février.",
+"Au mois de janvier, Mieux vaut voir le loup dans les champs, Qu'un homme en chemise.",
+"Année neigeuse, Année fructueuse.",
+"Le tonnerre en décembre annonce pour l'an qui vient, Aux bêtes et aux gens abondance de biens.",
+"La neige de l'Avent, Gèle trés facilement.",
+"En décembre, quand le jour croît, Aussi fait le froid.",
+"En décembre, pour que l'année aille comme il se doit, Il convient que les champs s'enneigent par deux fois.",
+"En décembre, Les pieds dans la cendre.",
+"En décembre, journée courte, longue nuit, L'abeille se tait, le jonc gémit.",
+"De la Toussaint à la fin de l'Avent, Jamais trop de pluie ou de vent.",
+"Chaque chose en son temps, Les navets et les choux pour le mois de l'Avent.",
+"Avents fleuris, Abondance de fruits.",
+"Au temps de l'Avent, Les coqs chantent par tous les temps.",
+"Amitié de gendre, Soleil de décembre.",
+"Vent de novembre est mauvais sur l'eau.",
+"Tonnerre de novembre remplit le grenier.",
+"Le mois des brumes réchauffe par-devant et refroidit par-derrière.",
+"En novembre, si la première neige ne prend pas, De l'hiver elle ne prendra.",
+"En novembre, bon paysan va vendre son poulain.",
+"Chaleur de novembre nuit fort, Et provoque de bien des gens la mort.",
+"S'il neige en octobre, L'hiver sera sobre.",
+"Quand le vent est au nord le jour de la Saint-Michel, le mois d'octobre est au sec.",
+"Pluie abondante pendant l'automne annonce printemps sec.",
+"Octobre le vaillant, Surmène le paysan.",
+"Octobre ensoleillé, Décembre emmitouflé.",
+"Froid d'octobre tue les chenilles.",
+"En octobre, si tu es prudent, Achète grains et vêtements.",
+"En octobre, s'il tonne, C'est la nouvelle bonne.",
+"En octobre, mieux vaut faire le feu que labourer par temps mou.",
+"En octobre, brume passe, Beau temps passe.",
+"Bise à la Saint-Michel, Octobre sec.",
+"Qu'en septembre il tonne, La vendange est bonne.",
+"Quand beaucoup d'étoiles filent en septembre, Les tonneaux sont trop petits en novembre.",
+"Pluie de septembre, joie du paysan.",
+"Nuées de septembre, Pluie de novembre, Gel en décembre.",
+"En septembre, tous les fruits valent le prendre.",
+"En septembre, sois prudent, Achète bois et vêtement!",
+"En septembre, si brume reste en haut, Il pleuvra à seau.",
+"En septembre se coupe ce qui pend.",
+"En septembre, quand tu entends la grive chanter, Cherche la maison pour t'abriter ou du bois pour te chauffer.",
+"En septembre, Le raisin ou la figue pendent.",
+"En septembre, il fait bon être tout le jour dans la campagne.",
+"Beau septembre, Emplira les chambres.",
+"Au mois de septembre, Le feignant peut aller se pendre.",
+"Entre les deux Notre-Dame, Jamais serpent n'a osé se montrer.",
+"Pluie de Notre-Dame, Fait tout vin ou tout châtaigne.",
+"Les oeufs pondus entre les deux Notre-Dame, se gardent plus longtemps que les autres.",
+"Juillet et août, Ni femmes ni choux.",
+"En mai la boue, Epis en août.",
+"En août, il fait bon aller chercher salade et ciboule.",
+"Dieu nous garde de la fange d'août, Et de la poussière de mai.",
+"Coupe ton bois en pleine lune d'août, il sera sain comme un os.",
+"Chaleur d'août, C'est du bien partout.",
+"Au mois d'août, n'ôte ta flanelle, Qu'en cas de chaleur",
+"Au mois d'août il fait bon aller chercher salade au jardin.",
+"Au mois d'août, Femmes retirez-vous.",
+"Août sans pluie fait maigrir la vache.",
+"Août mûrit les fruits, Septembre les cueille.",
+"Août couve, Septembre fait naître.",
+"A la mi-août, L'hiver se noue.",
+"Quand juillet commencera, Ta faux affûteras.",
+"Pour avoir un beau navet, Juillet doit le trouver fait.",
+"Pluie de juillet, eau en janvier.",
+"Petite pluie du matin en juillet est bonne pour le vin.",
+"Ne vous plaignez pas s'il tonne en juillet;, Car en ce mois s'il ne tonnait, Guerre et famine il y aurait.",
+"Mai, juin, juillet, bouche fraîche, le reste net.",
+"En juillet pluie du matin, Est bonne au grain.",
+"En juillet jusqu'au dernier, Mets ton blé dans le grenier.",
+"Ciel de juillet rouge au matin, Veut un pluvieux voisin.",
+"Quand en décembre il a tonné, L'hiver est avorté.",
+"Quand tombe la neige, S'engraisse la terre.",
+"L'hiver arrive à la Saint-André.",
+"A la Saint-Denis, Ramasse les fruits.",
+"A la Saint-Cloud, La lampe au clou.",
+"Les nuits d'août, Trompent sages et fous.",
+"Si le 1er juillet est pluvieux, Tout le mois sera douteux.",
+"Le temps qu'il fait en juin le trois, Sera le temps du mois.",
+"S'il gèle à la Saint-Bernard_i_n, Adieu le vin.",
+"Fleur de février, Ne va pas au pommier.",
+"A la Sainte-Etienne pas de vent, Pour le vin c'est excellent.",
+"Le jour de Noël humide, Donne greniers et tonneaux vides.",
+"Noël venteux, Vignerons heureux.",
+"Noël, c'est certain, Ne fut jamais marchand de vin.",
+"Le vigneron n'est rassuré, Que la Saint-Urbain passée., Plus il y aura de neige, Moins il y aura de grêle.",
+"Qui plante sa vigne pendant l'Avent, De vin en aura deux fois autant.",
+"Dans l'Avent le temps chaud, Remplit caves et tonneaux.",
+"Il faut des Avents frais et secs, Si l'on veut boire sec.",
+"Si la pomme passe la poire, Vends ton vin ou fais le boire;, Mais si la poire passe la pomme, Garde ton vin bonhomme.",
+"A la Saint-Martin, Fut goûter le vin, Notre Daprès, De la table il est près.",
+"A la Saint-Martin, bonde ta barrique, Vigneron, fume ta pipe, Mets l'oie au toupin, Et convie ton voisin.",
+"Pour Saint-Martin, Mets l'oie au pot, Tire ton vin, Invite ton voisin.",
+"A la Saint-Martin, la châtaigne et le vin nouveau.",
+"A la Saint-Martin tire ton vin, Saint-Martin le met en chemin.",
+"A la Saint-Martin, Ane qui ne boit du vin, Ane deux fois qui trop en boit.",
+"A la Saint-Martin, Bois le vin, Et laisse l'eau aller au moulin.",
+"A la Saint-Martin, Bonhomme vends ton vin.",
+"A la Saint-Martin, Bouche ton tonneau, tâte ton vin.",
+"A la Saint-Martin, Tout le moût passe pour bon vin.",
+"A la Saint-Martin, Jeune ou vieux, bois le vin.",
+"Si les feuilles de la vigne, Ne tombent pas avant la Saint-Martin, l'hiver sera froid.",
+"La Toussaint arrivée, Le blé doit être semé, Fruits, pommes de terre et vins rentrés.",
+"A la Toussaint, Tous vin est sain.",
+"A la Saint-Urbain, Ce qui est à la vigne est au vilain.",
+"A la Saint-Luc, Il est grand temps de vendanger, Car, si le raisin n'est pas mûr, Il ne peut pas faire de suc.",
+"A la Saint-Luc, Tue pourceaux, Et bondonne tes tonneaux.",
+"Le vin de Saint-Gall, N'est jamais un régal.",
+"Quand Saint-Gall coupe le raisin, C'est mauvais signe pour le vin.",
+"Pour la Saint-Gall, le raisin, Fait du mauvais vin.",
+"Entre Saint-Michel, Et Saint-François, Prends ta vendange telle qu'elle est, A Saint-Denis, prends-la si elle y est encore.",
+"A la Saint-Gérard, Du vin fait bon marc.",
+"Entre Saint-Denis et Saint-François, Prends ta vendange quelle qu'elle soit.",
+"En octobre, tonnerre, Vendanges prospères.",
+"A la Saint-Matthieu, s'il fait beau, Prépare bien tes tonneaux.",
+"A la Saint-Matthieu, Si le temps est bleu, Et beau, Prépare tes cuveaux.",
+"Si Matthieu pleure au lieu de rire, Le vin en vinaigre vire.",
+"A la Saint-Roland c'est du vin, Quand le buisson goutte au matin.",
+"A la bonne Dame de septembre, Bonde ton vin et prends ta lampe.",
+"Après la Nativité, Le raisin ne peut plus sécher.",
+"A la Saint-Grégoire, Il faut tailler la vigne pour boire.",
+"En septembre s'il tonne, La vendange est bonne.",
+"En septembre, si l'osier fleurit, Le raisin mûrit.",
+"Pour vendanger il faut attendre, Au moins la fin septembre.",
+"Etoiles filantes en septembre, Tonneaux pleins en novembre.",
+"Pluie de la Saint-Barthélémy, De la vigne est l'ennemie.",
+"Pluie de la Saint-Bernard, Fait mûrir les grains en retard.",
+"Vigneron qui prie Sainte-Hélène, De bon vin ne sera pas en peine.",
+"Vigneron qui prie Sainte-Hélène, Ne perd pas sa peine.",
+"De Saint-Roch la grande chaleur, Prépare du vin la couleur.",
+"A la Saint-Roch, grande chaleur, Prépare vin et chaleur.",
+"De l'Assomption la clarté, Fait du vin de qualité.",
+"S'il mouille à la mi-août, Le vin ne sera pas doux.",
+"Du soleil à l'Assomption, Beaucoup de vin et du bon.",
+"Pluie d'août, Donne miel et bon moût.",
+"Qui veut avoir du bon moût, Laboure sa vigne en août.",
+"Pluie et tonnerre en août, C'est huile et vin partout.",
+"Pluie entre (les deux) Notre Dame, Fait tout vin ou tout châtaigne.",
+"Août mûrit, septembre vendange, En ces deux mois tout bien s'arrange.",
+"Chaleur d'août, Mûrit grappes et moût.",
+"Canicula, caniculaire, Laissez vos femmes, prenez vos verres.",
+"Visiter sa vigne en août, N'est sûr de rien du tout, Mais la voir en septembre, On est assuré de la vendange.",
+"Quand il pleut en août, Il pleut miel et bon moût.",
+"Mois d'août n'a jamais passé, Sans que raisin noir soit vendangé.",
+"A tonnerre d'août, Grosses grappes et bon moût.",
+"Août pluvieux, Cellier vineux.",
+"S'il pleut à la Saint-Germain, C'est comme s'il pleuvait du vin.",
+"Si, au jour de Saint-Samson, le pinson est au buisson, Pour le vigneron c'est vin bon.",
+"Quand il pleut à la Saint-Victor, Les Vendanges ne sont pas d'or.",
+"A la fête de la Saint-Vincent, Le vin monte dans les sarments, Puis plus tard, à la Saint-Martin, Tout le moût est devenu vin.",
+"Rosée du jour de Saint-Benoît, Est rosée de vin si tu m'en crois.",
+"Mi-juillet sec et beau, Fait du vin comme de l'eau.",
+"Prépare tes tonneaux, Si juillet est beau.",
+"En mi-juillet, pluie ou vent, Font mal au froment.",
+"S'il pleut la veille de la Saint-Pierre, La vigne est réduite au tiers.",
+"L'eau de la Saint-Jean ôte le vin, Et ne donne pas de pain.",
+"Autant de jours le lis fleurit, Avant la Saint-Jean, Autant de jours on vendangera, Avant la Saint-Michel.",
+"A la Saint-Jean, Le raisin pend.",
+"Autant de jours, Que l'oignon de lis fleurit après la Saint-Jean.",
 ]
 """
 
-La rosée du mois de mai, Rend le laboureur gai.
-Mai froid n'enrichit personne, Mais il est excellent quand il
-tonne.
-Mai jardinier, Ne comble pas le grenier.
-Le froment sera mal nourri, Si mai ne voit sa fleur et son épi.
-Chaleur de mai, Verdit la haie.
-Mai frais et venteux, Fait l'an plantureux.
-Au mois de mai, Voleurs sont nés.
-Mars venteux et avril pluvieux, Font mai gai et gracieux.
-Gelée en avril et mai, Misère prédit au vin.
-En avril si gelée vient, Elle apporte pain et vin.
-Avril pluvieux, mais soleilleux, Rendent le paysan _o_r_g_u_e_i_l_l_e_u_x, Et
-l'usurier soucieux.
-Au mois d'avril, Tout oiseau fait son nid, Hormis la caille et la
-perdrix, Et le rossignol joli.
-Au mois d'avril, N'enlève pas un fil, Au mois de mai, Fait ce
-qu'il te plaît, Mais encore je ne sais.
-En avril, nuée, En mai rosée.
-D'avril les ondées, Font les fleurs de mai.
-Gelée d'avril ou mai, Misère nous prédit au vrai.
-Avril pluvieux et mai venteux, Ne rendent pas le paysan disetteux.
-Avril pleut aux hommes, Mai pleut aux bêtes.
-Au mois d'avril, La chèvre rit, Les buissons _b_o_u_r_g_e_o_n_n_e_n_t.
-L'ouaille et l'abeille en avril font leur deuil.
-Nul avril sans épis.
-Il n'est d'avril si beau, Qui n'ait de neige à son chapeau.
-S'il tonne en avril, Prépare ton baril.
-Au mois d'avril, Toute bête change de poil.
-L'avoine d'avril, C'est pour les brebis.
-Les poussins du mois d'avril, Sur la gerbe font leur nid.
-Les poussins du mois d'avril, Sont toujours rabougris.
-Avril et mai, Sont la clé de l'année.
-Avril a trente jours, S'il pleuvait durant trente et un, Il n'y
-aurait mal pour aucun.
-Ce n'est jamais avril, Si le coucou ne l'a dit.
-Le vent d'avril, N'a pas d'abri.
-Quand novembre aura fleurs nouvelles, Morte saison sera cruelle.
-Quand l'eau sort au mois mort, Toute l'année, elle sort.
-Quand il tonne entre Toussaint et Noël, l'hiver est en retard.
-Quand en mars il tonne, Bacchus remplit la tonne.
-Quand en mars il tonne, L'amande est bonne.
-Quand en mars il tonne, L'année sera bonne.
-Autant de brouillard en mars, Autant d'orages en été.
-Gelée de mars, Tonnerre en avril.
-Quand il gèle en mars, il gèle autant en mai.
-Neige de mars, brûle le bourgeon.
-Jamais pluie de printemps n'a passé pour mauvais temps.
-Printemps tardif, précoce hiver.
-Printemps secs, étés pluvieux.
-Pour la Saint-Joseph, mon cousin, Taille les arbres du jardin.
-Le chaud à la Saint-Joseph, L'été sera bref.
-Pour la Saint-Joseph, beau temps, Promesse de bon an.
-A la Saint-Grégoire, tonds le mouton.
-S'il gèle aux quarante martyrs, Il gèlera encore quarante nuits.
-Si février a de gentilles filles, Mars les lui pille.
-Si février se fievrotte, Mars marmotte.
-Le temps de Saint-Gontran, Voit l'hirondelle arrivant.
-Soit au début soit à la fin, Mars nous montre son venin.
-Si mars commence en courroux, Il finira tout doux, tout doux.
-Quand il tonne en mars, les vaches sont tirées.
-Mars venteux, Pommiers plantureux.
-Neige de mars, Vaut un parc.
-Quand mars bien mouillé sera, Bien du lin il te donnera.
-Pluie de mars, N'engraisse ni oie ni jars.
-Mars, marseau, Chaque brebis avec son agneau.
-Si le seigle est sans épis, Au mois de mars c'est tant pis.
-Quand le mois de mars est _p_o_u_s_s_i_é_r_e_u_x, Le bouvier devient
-Mars martèle, Avril coutelle.
-A mars poudreux, Avril pluvieux.
-Quand mars fait avril, Avril fait mars.
-Entre mars et avril, On sait si le coucou est mort ou en vie.
-Mars bon ou méchant, Ton boeuf à l'herbe, ton chien dedans.
-En février, signe de beau, Quand les pies bâtissent haut.
-Si les mouches dansent en février, Ménage ton foin dans ton grenier.
-L'avoine de février emplit le grenier.
-L'automne est bonne quand mars la sonne, Elle est encore meilleure
-quand février l'entonne.
-Tonnerre en février, Fait tenir toute l'huile en une cuiller.
-En février, s'il tonne, Point de cidre en la tonne.
-Novembre, mois des brumes, réchauffe par-devant et refroidit _p_a_r_-
-Tonnerre de février remplit ton cellier.
-Lune nouvelle au Mardi gras, Le tonnerre peu après entendras.
-Quand le loup sèche sa paille, Il fera beau pendant quarante jours.
-Si février est chargé d'eau, Le temps n'en sera que plus beau.
-A la Sainte-_E_l_i_s_a_b_e_t_h, Tout ce qui porte fourrure n'est point bête.
-La neige de février, Est de l'eau dans un panier.
-En février, La neige tient dans un panier.
-Quand Mardi gras est de vert vêtu, Pâques met des habits blancs.
-Carnaval au soleil, Pâques au feu.
-A la Saint-Blaise, De la neige jusqu'à la queue de l'âne.
-A la Saint-Blaise, L'hiver s'apaise.
-Quand il pleut pour la Chandeleur, Il pleut pendant quarante jours.
-Chandeleur trouble, L'hiver redouble.
-Chandeleur noire, L'hiver fait son devoir.
-Chandeleur froide, hiver joyeux.
-Chandeleur couverte, Quarante jours de perte.
-S'il pleut pour la Chandeleur, Il y aura beaucoup de cire et de
-miel.
-Si la Chandeleur est brumeuse, Il y aura beaucoup d'amandes.
-Quand le soleil de la Chandeleur fait lanterne, Quarante jours
-après, il hiverne.
-Quand pour la Chandeleur, le soleil luit, Quarante jours d'hiver
-suivent.
-A la Chandeleur, pluvieuse ou claire, Quarante jours d'hiver avons
-Chandeleur claire, Laisse l'hiver derrière.
-A la Chandeleur, L'hiver cesse ou prend vigueur.
-Mieux vaut un loup dans son foyer, Qu'un homme en chemise en
-Mois de février, le plus petit et le plus diable.
-Quand février n'a pas de grand froid, Le vent dominera tous les
-autre mois.
-Qui taille sa vigne en février, N'a besoin de corbeille ni de
-panier.
-En février le tonnerre, Fait tenir l'huile dans une cuillère.
-Mieux vaut un renard au poulailler, Qu'un homme en chemise en
-Neige de février, Brûle le blé.
-Neige de février, Tient comme l'eau dans un panier.
-Neige de février, Fuit comme un lévrier.
-Si février est sec et chaud, Garde du foin pour tes chevaux.
-Oeuf de février, Oeuf de fumier.
-Le mois de février, Est bon agnelier.
-Si février n'a ni pluie ni giboulées, Tous les mois de l'année
-seront ennuyés.
-Si février commence en lion, Il finit comme un mouton.
-A la Sainte-Agathe, Le temps se gâte.
-Jamais février n'a passé, Sans voir le _g_r_o_s_e_i_l_l_i_e_r feuillé.
-Il ne faut pas que février, Laisse sans feuille le _g_r_o_s_e_i_l_l_i_e_r.
-Si février ne «févrière» pas, Tout mois de l'an, peu ou prou, le
-fera.
-Mieux vaut un loup dans son troupeau, Qu'un mois de février beau.
-Si février n'a ses _b_o_u_r_r_a_s_q_u_e_s, Tous les mois feront des frasques.
-Brumes d'octobre et pluvieux novembre, Font ensemble un bon
-Quand il tonne en janvier, Il tonne tous les mois de l'année.
-Vent en janvier, pluies en juillet.
-Quand janvier est bon laboureur, Février n'est pas son frère.
-En janvier, la neige s'assied comme un cavalier, En février, elle
-fuit comme un chien lévrier.
-S'il ne neige pas en janvier, Il neigera en mai et avril.
-Si l'hiver n'arrive pas en janvier, Il arrive le 2 février.
-Quand il tonne en janvier, L'hiver est avorté.
-Tonnerre en janvier, Récolte en quantité.
-Janvier détrempé, Signe de cherté.
-Quand il ne pleut pas en janvier, On doit étayer le grenier.
-Quand il pleut et il neige, S'ouvrent les portes de Saint-Pierre.
-Quand d'octobre vient la fin, Toussaint est au matin.
-En janvier, le froid je te le recommande.
-Quand il pleut et il fait soleil, S'ouvrent les portes de Saint-
-Paul.
-A la conversion de Saint-Paul, L'hiver se rompt le col.
-A la Saint-Vincent, L'hiver meurt ou reprend
-Si le jour de la Saint-Vincent le soleil est clairet beau, On aura
-plus de vin que d'eau.
-Le jour à la Saint-Antoine, A augmenté d'un dîner de moine.
-Regarde comment sont menées, Depuis Noël douze journées, Car en
-suivant ces douze jours, Les douze mois feront leur cours.
-Garde toi du mois de janvier, Comme un voleur au grenier., S'il
-fait vent, nous aurons la guerre, Et si l'on voit épais
-Si la grive chante au mois de janvier, Bouvier prend garde à ton
-grenier.
-Pluie aux rois, Blé jusqu'au toit.
-Quand le soleil brille le jour de l'an, C'est signe de beaucoup de
-gland.
-Sec janvier, Heureux fermier.
-En août, le vent est fou.
-C'est le mois d'août, Qui donne bon goût.
-On ne sait si juillet est bon qu'après., Faîtes la moisson.
-Les abeilles en juillet, Ne valent grain de millet.
-Juillet ensoleillé, Remplit cave et grenier.
-Juillet doit rôtir ce que septembre mûrira.
-Juillet, c'est le mois de la moisson, Vite on dépouille les
-sillons.
-En juin, juillet et août, Ni femme, ni choux.
-Avril, quelques nids, Mai, ils sont tous faits, Juin, ils sont
-biens communs, Juillet, ils sont tous cueillis.
-Au mois de juin et de juillet, Qui se marie, fort peu fait.
-Au mois de juillet, on met la faux au sillon.
-Au mois de juillet, Ni veste, ni corset.
-La parole n'est pas un moineau;, Une fois envolée, tu ne la
-Juin larmoyeux, Rend le paysan joyeux.
-Temps trop humide en juin, Rend paysan chagrin.
-A Sainte-_C_l_o_t_i_l_d_e de fleur en buisson, Abeille butine à foison.
-Temps humide de juin, Fait chagrin.
-A Saint-_F_é_l_i_x, Tous les lilas sont fleuris.
-Rosée de mai vaut chariot de roi.
-Mars avec ses marteaux, Dans leur mère tue leur veaux.
-les plus beaux mois de l'année.
-En mars, quand le merle a sifflé, L'hiver s'en est allé.
-En mars, quand il tonne chacun s'en étonne.
-En mars, quand il fait beau, Prends ton manteau.
-En mars, manteau de neige dans les prés, Manteau de foin prochain
-En mars, firmament très éloigné, Changement de temps peu éloigné.
-Des fleurs qui s'ouvrent en mars, On n'a que le regard.
-Des fleurs que mars verra, Peu de fruits on mangera.
-Des fleurs de mars ne tient pas compte, Non plus que des filles
-sans honte.
-Autant de gelées en mars, Autant de rosées en avril.
-Au _c_o_m_m_e_n_c_e_m_e_n_t, à la fin, mars a du poison.
-Autant de brumes en mars, autant de fruits en mai.
-de sept jours de printemps.
-Autant de brouillard en mars que de gelées en mai.
-En février toute oie de bonne race pond sur le fumier.
-En février, les agneaux, Naissent plus beaux.
-En février, La feuille au groseiller.
-Crapaud qui chante en février a l'hiver derrière lui.
-Beau février, C'est disette au grenier.
-A mi-février, Mi-grenier.
-Pluie qui dure en janvier, Suffit pour toute l'année.
-On a vu le plus mauvais temps, Quand janvier montre les dents.
-Neige de janvier, Vaut fumier.
-Neige en janvier, Blé au grenier.
-L'or du soleil en janvier, Est or que l'on ne doit envier.
-Les hivers les plus froids, Sont ceux qui prennent vers les Rois.
-En février, civelles, En mars, bonnes et belles, En avril, fi
-d'elles.
-Le mauvais an, Entre en nageant.
-Janvier sec et sage, Est un bon présage.
-Janvier ne veut pas, Voir pisser un rat.
-Janvier frileux, Gèle la merlesse sur les oeufs.
-Janvier d'eau chiche fait le paysan riche.
-Janvier amasse les souches, Février les brûle toutes.
-Il vaut mieux voir un voleur dans son grenier, Qu'un laboureur en
-chemise en janvier.
-Garde-toi du printemps de janvier!
-En janvier, le paysage n'a rien.
-Dieu te garde d'un bon janvier.
-Cadeau de janvier, _I_n_g_r_a_t_i_t_u_d_e de février.
-Brouillard en janvier, Froid en mai.
-Brouillard en janvier, Année mouillée.
-Brouillard en janvier, Année _e_n_s_o_l_e_i_l_l_é_e.
-Beaux jours de janvier trompent l'homme en février.
-Au mois de janvier, Mieux vaut voir le loup dans les champs, -
-Qu'un homme en chemise.
-Année neigeuse, Année fructueuse.
-Le tonnerre en décembre annonce pour l'an qui vient, Aux bêtes et
-aux gens abondance de biens.
-La neige de l'Avent, Gèle trés facilement.
-En décembre, quand le jour croît, Aussi fait le froid.
-En décembre, pour que l'année aille comme il se doit, Il convient
-que les champs s'enneigent par deux fois.
-En décembre, Les pieds dans la cendre.
-En décembre, journée courte, longue nuit, L'abeille se tait, le
-jonc gémit.
-laboureur a foi.
-De la Toussaint à la fin de l'Avent, Jamais trop de pluie ou de
-vent.
-Chaque chose en son temps, Les navets et les choux pour le mois de
-l'Avent.
-Avents fleuris, Abondance de fruits.
-Au temps de l'Avent, Les coqs chantent par tous les temps.
-Amitié de gendre, Soleil de décembre.
-Vent de novembre est mauvais sur l'eau.
-Tonnerre de novembre remplit le grenier.
-Le mois des brumes réchauffe par-devant et refroidit _p_a_r_-_d_e_r_r_i_è_r_e.
-En novembre, si la première neige ne prend pas, De l'hiver elle ne
-prendra.
-En novembre, bon paysan va vendre son poulain.
-Chaleur de novembre nuit fort, Et provoque de bien des gens la mort.
-S'il neige en octobre, L'hiver sera sobre.
-Quand le vent est au nord le jour de la Saint-_M_i_c_h_e_l, le mois
-d'octobre est au sec.
-Pluie abondante pendant l'automne annonce printemps sec.
-Octobre le vaillant, Surmène le paysan.
-Octobre ensoleillé, Décembre emmitouflé.
-Froid d'octobre tue les chenilles.
-En octobre, si tu es prudent, Achète grains et vêtements.
-En octobre, s'il tonne, C'est la nouvelle bonne.
-En octobre, mieux vaut faire le feu que labourer par temps mou.
-En octobre, il faut que l'homme vite s'habille, Quand le mûrier se
-En octobre, brume passe, Beau temps passe.
-Bise à la Saint-_M_i_c_h_e_l, Octobre sec.
-Qu'en septembre il tonne, La vendange est bonne.
-Quand beaucoup d'étoiles filent en septembre, Les tonneaux sont
-trop petits en novembre.
-Pluie de septembre, joie du paysan.
-Nuées de septembre, Pluie de novembre, Gel en décembre.
-En septembre, tous les fruits valent le prendre.
-En septembre, sois prudent, Achète bois et vêtement!
-En septembre, si brume reste en haut, Il pleuvra à seau.
-En septembre se coupe ce qui pend.
-En septembre, quand tu entends la grive chanter, Cherche la maison
-pour t'abriter ou du bois pour te chauffer.
-En septembre, Le raisin ou la figue pendent.
-En septembre, il fait bon être tout le jour dans la campagne.
-Beau septembre, Emplira les chambres.
-Au mois de septembre, Le feignant peut aller se pendre.
-Entre les deux Notre-Dame, Jamais serpent n'a osé se montrer.
-Pluie de Notre-Dame, Fait tout vin ou tout châtaigne.
-Les oeufs pondus entre les deux Notre-Dame, se gardent plus longtemps
-que les autres.
-Juillet et août, Ni femmes ni choux.
-En mai la boue, Epis en août.
-En août, les gélines sont sourdes, (car ce mois là, les poules sont
-En août, il fait bon aller chercher salade et ciboule.
-Dieu nous garde de la fange d'août, Et de la poussière de mai.
-Coupe ton bois en pleine lune d'août, il sera sain comme un os.
-Chaleur d'août, C'est du bien partout.
-Au mois d'août, n'ôte ta flanelle, Qu'en cas de chaleur
-Au mois d'août il fait bon aller chercher salade au jardin.
-Au mois d'août, Femmes _r_e_t_i_r_e_z_-_v_o_u_s.
-Août sans pluie fait maigrir la vache.
-Août mûrit les fruits, Septembre les cueille.
-Août couve, Septembre fait naître.
-A la mi-août, L'hiver se noue.
-Quand juillet commencera, Ta faux affûteras.
-Pour avoir un beau navet, Juillet doit le trouver fait.
-Pluie de juillet, eau en janvier.
-Petite pluie du matin en juillet est bonne pour le vin.
-Ne vous plaignez pas s'il tonne en juillet;, Car en ce mois s'il ne
-tonnait, Guerre et famine il y aurait.
-Mai, juin, juillet, bouche fraîche, le reste net.
-En juillet pluie du matin, Est bonne au grain.
-En juillet jusqu'au dernier, Mets ton blé dans le grenier.
-Ciel de juillet rouge au matin, Veut un pluvieux voisin.
-Quand en décembre il a tonné, L'hiver est avorté.
-Quand tombe la neige, S'engraisse la terre.
-L'hiver arrive à la Saint-André.
-A la Saint-_D_e_n_i_s, Ramasse les fruits.
-A la Saint-_C_l_o_u_d, La lampe au clou.
-Les nuits d'août, Trompent sages et fous.
-Si le 1er juillet est pluvieux, Tout le mois sera douteux.
-Le temps qu'il fait en juin le trois, Sera le temps du mois.
-S'il gèle à la Saint-Bernard_i_n, Adieu le vin.
-Fleur de février, Ne va pas au pommier.
-A la Sainte-_E_t_i_e_n_n_e pas de vent, Pour le vin c'est excellent.
-Le jour de Noël humide, Donne greniers et tonneaux vides.
-Noël venteux, Vignerons heureux.
-Noël, c'est certain, Ne fut jamais marchand de vin.
-Le vigneron n'est rassuré, Que la Saint-_U_r_b_a_i_n passée., Plus il y
-aura de neige, Moins il y aura de grêle.
-Qui plante sa vigne pendant l'Avent, De vin en aura deux fois
-autant.
-Dans l'Avent le temps chaud, Remplit caves et tonneaux.
-Il faut des Avents frais et secs, Si l'on veut boire sec.
-Si la pomme passe la poire, Vends ton vin ou fais le boire;, Mais
-si la poire passe la pomme, Garde ton vin bonhomme.
-A la Saint-Martin, Fut goûter le vin, Notre Daprès, De la table il
-est près.
-A la Saint-Martin, bonde ta barrique, Vigneron, fume ta pipe, Mets
-l'oie au toupin, Et convie ton voisin.
-Pour Saint-Martin, Mets l'oie au pot, Tire ton vin, Invite ton
-voisin.
-A la Saint-Martin, la châtaigne et le vin nouveau.
-A la Saint-Martin tire ton vin, Saint-Martin le met en chemin.
-A la Saint-Martin, Ane qui ne boit du vin, Ane deux fois qui trop
-en boit.
-A la Saint-Martin, Bois le vin, Et laisse l'eau aller au moulin.
-A la Saint-Martin, Bonhomme vends ton vin.
-A la Saint-Martin, Bouche ton tonneau, tâte ton vin.
-A la Saint-Martin, Tout le moût passe pour bon vin.
-A la Saint-Martin, Jeune ou vieux, bois le vin.
-Si les feuilles de la vigne, Ne tombent pas avant la Saint-Martin, -
-L'hiver sera froid.
-La Toussaint arrivée, Le blé doit être semé, Fruits, pommes de
-terre et vins rentrés.
-A la Toussaint, Tous vin est sain.
-A la Saint-_U_r_b_a_i_n, Ce qui est à la vigne est au vilain.
-A la Saint-Luc, Il est grand temps de vendanger, Car, si le raisin
-n'est pas mûr, Il ne peut pas faire de suc.
-A la Saint-Luc, Tue pourceaux, Et bondonne tes tonneaux.
-Le vin de Saint-Gall, N'est jamais un régal.
-Quand Saint-Gall coupe le raisin, C'est mauvais signe pour le vin.
-Pour la Saint-Gall, le raisin, Fait du mauvais vin.
-Entre Saint-_M_i_c_h_e_l, Et Saint-_F_r_a_n_ç_o_i_s, Prends ta vendange telle
-qu'elle est, A Saint-_D_e_n_i_s, prends-la si elle y est encore.
-A la Saint-_G_é_r_a_r_d, Du vin fait bon marc.
-Entre Saint-_D_e_n_i_s et Saint-_F_r_a_n_ç_o_i_s, Prends ta vendange quelle
-qu'elle soit.
-En octobre, tonnerre, Vendanges prospères.
-A la Saint-Matthieu, s'il fait beau, Prépare bien tes tonneaux.
-A la Saint-Matthieu, Si le temps est bleu, Et beau, Prépare tes
-cuveaux.
-Si Matthieu pleure au lieu de rire, Le vin en vinaigre vire.
-A la Saint-_R_o_l_a_n_d c'est du vin, Quand le buisson goutte au matin.
-A la bonne Dame de septembre, Bonde ton vin et prends ta lampe.
-Après la Nativité, Le raisin ne peut plus sécher.
-A la Saint-Grégoire, Il faut tailler la vigne pour boire.
-En septembre s'il tonne, La vendange est bonne.
-En septembre, si l'osier fleurit, Le raisin mûrit.
-Pour vendanger il faut attendre, Au moins la fin septembre.
-Etoiles filantes en septembre, Tonneaux pleins en novembre.
-Pluie de la Saint-_B_a_r_t_h_é_l_é_m_y, De la vigne est l'ennemie.
-Pluie de la Saint-Bernard, Fait mûrir les grains en retard.
-Vigneron qui prie Sainte-_H_é_l_è_n_e, De bon vin ne sera pas en peine.
-Vigneron qui prie Sainte-_H_é_l_è_n_e, Ne perd pas sa peine.
-De Saint-Roch la grande chaleur, Prépare du vin la couleur.
-A la Saint-Roch, grande chaleur, Prépare vin et chaleur.
-De l'Assomption la clarté, Fait du vin de qualité.
-S'il mouille à la mi-août, Le vin ne sera pas doux.
-Du soleil à l'Assomption, Beaucoup de vin et du bon.
-Si l'on veut que le raisin tienne, Faut du chaud à la Saint-
-Pluie d'août, Donne miel et bon moût.
-Qui veut avoir du bon moût, Laboure sa vigne en août.
-Pluie et tonnerre en août, C'est huile et vin partout.
-Pluie entre (les deux) Notre Dame, Fait tout vin ou tout châtaigne.
-Août mûrit, septembre vendange, En ces deux mois tout bien
-s'arrange.
-Chaleur d'août, Mûrit grappes et moût.
-Canicula, _c_a_n_i_c_u_l_a_i_r_e, Laissez vos femmes, prenez vos verres.
-Visiter sa vigne en août, N'est sûr de rien du tout, Mais la voir
-en septembre, On est assuré de la vendange.
-Quand il pleut en août, Il pleut miel et bon moût.
-Mois d'août n'a jamais passé, Sans que raisin noir soit vendangé.
-A tonnerre d'août, Grosses grappes et bon moût.
-Août pluvieux, Cellier vineux.
-S'il pleut à la Saint-_G_e_r_m_a_i_n, C'est comme s'il pleuvait du vin.
-Si, au jour de Saint-_S_a_m_s_o_n, le pinson est au buisson, Pour le
-vigneron c'est vin bon.
-coloré.
-Quand il pleut à la Saint-_V_i_c_t_o_r, Les Vendanges ne sont pas d'or.
-A la fête de la Saint-Vincent, Le vin monte dans les sarments, Août
-Puis plus tard, à la Saint-Martin, Tout le moût est devenu vin.
-Rosée du jour de Saint-_B_e_n_o_î_t, Est rosée de vin si tu m'en crois.
-Mi-juillet sec et beau, Fait du vin comme de l'eau.
-Prépare tes tonneaux, Si juillet est beau.
-En mi-juillet, pluie ou vent, Font mal au froment.
-S'il pleut la veille de la Saint-Pierre, La vigne est réduite au
-tiers.
-L'eau de la Saint-Jean ôte le vin, Et ne donne pas de pain.
-Autant de jours le lis fleurit, Avant la Saint-Jean, Autant de
-jours on vendangera, Avant la Saint-_M_i_c_h_e_l.
-A la Saint-Jean, Le raisin pend.
-Autant de jours, Que l'oignon de lis fleurit après la Saint-Jean -
-Autant de jours, Que la vendange sera retardée après la Saint-
+Autant de jours, Que la vendange sera retardée après la Saint-Jean
 Saint-Jean, Verjus pendant, Argent comptant.
-Aux mois d'été, Si tu m'en crois, Laisse la femme et prends le
-verre!
+Aux mois d'été, Si tu m'en crois, Laisse la femme et prends le verre!
 S'il pleut le jour de la Saint-Cyr, Le vin diminue jusqu'à la tire.
 Pluie de Saint-Guy, Laisse le vigneron marri.
 Pluie de Saint-Médard, Tarit le vin et coupe le lard.
 S'il pleut à la Saint-Médard, La vendange diminue d'un quart; -
-Mais s'il fait beau à Saint-_B_a_r_n_a_b_é, Elle diminue de moitié.
-Quand il pleut à la Saint-Médard, Il pleut quarante jours plus
-tard., Mais après, Saint-_B_a_r_n_a_b_é, Défait ce que Saint-Médard a
-fait., Lorsque Saint-_G_e_r_v_a_i_s est beau, Il tire Saint-Médard de
-l'eau.
-Quand le chou passe la Saint-_G_i_l_b_e_r_t, Du vigneron vide sera le
-verre.
-Beau temps à la Saint-Marcel_l_i_n, Assure le pain et le vin.
+Mais s'il fait beau à Saint-Barnabé, Elle diminue de moitié.
+Quand il pleut à la Saint-Médard, Il pleut quarante jours plus tard. Mais après, Saint-Barnabé, Défait ce que Saint-Médard a fait., 
+Lorsque Saint-Gervais est beau, Il tire Saint-Médard de l'eau.
+Quand le chou passe la Saint-Gilbert, Du vigneron vide sera le verre.
+Beau temps à la Saint-Marcellinn, Assure le pain et le vin.
 Pour la Pentecôte, On doit tailler, La vigne de côte à côte.
 A la Pentecôte, On voit tailler la vigne de côte en côte.
 Homme de juin, Homme de vin, Femme de juin, Genre coquin.
 Année de groseille, Année de bouteille.
 Eau de Sainte-Pétronille, Change raisins en grapilles.
-S'il pleut à la Sainte-Pétronille, Les raisins tombent en
-guenilles.
-A la Saint-_U_r_b_a_i_n, Vends ton blé et ton vin.
-Gelée le soir à la Saint-_U_r_b_a_i_n, Anéantit fruits, pain et vin.
-A la Saint-_U_r_b_a_i_n, s'il fait beau, Préparez vos tonneaux.
-Soleil à la Saint-_U_r_b_a_i_n, Présage une année de vin.
-Après la Saint-_U_r_b_a_i_n, Il ne gèle vin ni pain.
+S'il pleut à la Sainte-Pétronille, Les raisins tombent en guenilles.
+A la Saint-Urbain, Vends ton blé et ton vin.
+Gelée le soir à la Saint-Urbain, Anéantit fruits, pain et vin.
+A la Saint-Urbain, s'il fait beau, Préparez vos tonneaux.
+Soleil à la Saint-Urbain, Présage une année de vin.
+Après la Saint-Urbain, Il ne gèle vin ni pain.
 Le 24 mai, la vendange sera bonne, Si le temps est clair et serein -
 Le contraire arrivera, S'il est obscur et pluvieux.
-Quand la vigne est en fleur à la Saint-_T_h_i_é_b_a_u_l_t, Il n'y a ni biens
-ni maux.
+Quand la vigne est en fleur à la Saint-Thiébault, Il n'y a ni biens ni maux.
 Pluie à la Saint-Bernard_i_n, Vigneron pleure ton vin.
 S'il pleut à la Saint-Bernard_i_n, Tu peux dire adieu à ton vin.
 Gelée de Saint-Bernard_i_n, Tu peux dire adieu à ton vin.
 Soleil à la Saint-Eric, Promet du vin plein les barriques.
-S'il pleut le 5 mai, Pas de noix;, S'il pleut le 13 juin, Pas de
-raisin.
-Quand il pleut le jour de la Saint-Philippe, Il ne faut ni tonneau
-ni pipe.
-Le troisième jour des Rogations, En allant à la procession, S'i
-l'on est un peu mouillé, Pour vendanger on sera trempé.
+S'il pleut le 5 mai, Pas de noix;, S'il pleut le 13 juin, Pas de raisin.
+Quand il pleut le jour de la Saint-Philippe, Il ne faut ni tonneau ni pipe.
+Le troisième jour des Rogations, En allant à la procession, Si l'on est un peu mouillé, Pour vendanger on sera trempé.
 Rogations pluvieuses, Ne font pas l'année vineuse.
 S'il pleut aux Rogations, Le 1er jour, il pleuvra pendant la
-fenaison, Le 2ème jour, il pleuvra pendant la moisson, Le 3ème
-jour, il pleuvra pendant la vendaison.
-Quand la vigne est en fleurs, Elle veut voir ni manant, ni
-seigneur.
+fenaison, Le 2ème jour, il pleuvra pendant la moisson, Le 3ème jour, il pleuvra pendant la vendaison.
+Quand la vigne est en fleurs, Elle veut voir ni manant, ni seigneur.
 Si tu veux vendre ton vin, Demain n'attends pas la fin.
 Frais mai, épaisse tourte, Mais peu de vin dans la coupe.
 Quand le raisin naît en mai, Il faut s'attendre à du mauvais.
 Froid mai et chaud juin, Donnent pain et vin.
 Celui ne sait qu'est vendre vin, Qui de mai n'attend la fin.
-Rosée du soir et fraîcheur de mai, Appellent du vin et beaucoup de
-foin.
+Rosée du soir et fraîcheur de mai, Appellent du vin et beaucoup de foin.
 Bourgeon de vigne en mai, Remplit le chai.
 Vin de mai (vaut), Piquette de chai.
-La pluie le jour de Saint-_R_o_b_e_r_t, De bon vin remplira ton verre.
-Gelée de Saint-_F_r_u_c_t_u_e_u_x, Rend le vigneron malheureux.
+La pluie le jour de Saint-Robert, De bon vin remplira ton verre.
+Gelée de Saint-Fructieux, Rend le vigneron malheureux.
 Taille le Vendredi Saint, T'auras beaucoup de raisin.
 Gelée du Vendredi Saint, Gèle le pain et le vin.
-Pour que les rats ne mangent pas le raisin, Il faut tailler la
-treille le Vendredi Saint.
-S'il y avait deux Pâques, Et deux vendanges, Il n'y aurait plus ni
-famine, Ni pauvreté.
-Tonnerre d'avril, Réjouit le laboureur, Le vigneron, Et son
-baril.
-Bourgeon d'avril, Remplit le baril, Bourgeon de mai, Remplit le
-cellier.
+Pour que les rats ne mangent pas le raisin, Il faut tailler la treille le Vendredi Saint.
+S'il y avait deux Pâques, Et deux vendanges, Il n'y aurait plus ni famine, Ni pauvreté.
+Tonnerre d'avril, Réjouit le laboureur, Le vigneron, Et son baril.
+Bourgeon d'avril, Remplit le baril, Bourgeon de mai, Remplit le cellier.
 Pluie d'avril, Emplit le baril.
 Quand en avril partout il gèle, Le vigneron est en cervelle.
 Quand le raisin naît en avril, Il faut préparer son baril.
 Quand il pleut en avril, Tu peux réparer le fond du tonneau.
-Quand il tonne en avril, Le vigneron se réjouit, Et le laboureur
-aussi.
+Quand il tonne en avril, Le vigneron se réjouit, Et le laboureur aussi.
 Quand il tonne en avril, Apprête ton baril.
 Quand il tonne en mars, Bonhomme enfonce ton quart, Mais s'il
 tonne en avril, Bonhomme casse ton douzil.
@@ -942,8 +859,8 @@ Ne sème point au jour de Saint-_L_é_g_e_r, Si tu veux blé trop léger. 
 Mais n'attends pas la Saint-_B_r_u_n_o, Ton blé serait tout noiraud.
 Octobre en bruine, Hiver en ruine.
 A la Saint-_J_é_r_ô_m_e, Hoche tes pommes.
-Quand les _h_i_r_o_n_d_e_l_l_e_s voient la Saint-_M_i_c_h_e_l, L'hiver ne vient qu'à
-Noël, Pluie de Saint-_M_i_c_h_e_l sans orage, D'un hiver doux est le
+Quand les _h_i_r_o_n_d_e_l_l_e_s voient la Saint-Michel, L'hiver ne vient qu'à
+Noël, Pluie de Saint-Michel sans orage, D'un hiver doux est le
 présage.
 A la Saint-_F_i_r_m_i_n, L'hiver est en chemin.
 En septembre, la bruine, Est toujours bonne à la vigne.
@@ -972,8 +889,8 @@ Pluie à la Sainte-_S_a_b_i_n_e, Est une grâce divine.
 C'est comme s'il pleuvait du vin, Fine pluie à Saint-_A_u_g_u_s_t_i_n.
 Qui pluie demande à Saint-_E_b_b_o_n, N'est pas laissé à l'abandon.
 Soleil rouge en août, C'est de la pluie partout.
-Beau temps pour la Saint-_L_o_u_i_s, Plusieurs jours sans pluie.
-A la Saint-_B_a_r_t_h_é_l_é_m_y, La grenouille sort de son nid.
+Beau temps pour la Saint-Louis, Plusieurs jours sans pluie.
+A la Saint-Barthélémy, La grenouille sort de son nid.
 A la Sainte-_R_o_s_e, Pour le _t_r_a_v_a_i_l_l_e_u_r, pas de pause.
 Pluie de la Saint-_F_a_b_r_i_c_e, Ne rend pas le paysan riche.
 Je suis le mois où nul loisir, On ne peut prendre ou séjourner, -
@@ -1048,7 +965,7 @@ S'il pleut à la Sainte-Pétronille, Pendant quarante jours elle
 trempe ses guenilles.
 Si le dicton dit vrai, Méchante femme s'épouse en mai.
 Soleil de Saint-_G_e_r_m_a_i_n, Nous promet du bon vin.
-Quand la Saint-_U_r_b_a_i_n est passée, Le vigneron est rassuré.
+Quand la Saint-Urbain est passée, Le vigneron est rassuré.
 Celui qui s'allège avant le mois de mai, _C_e_r_t_a_i_n_e_m_e_n_t ne sait pas
 ce qu'il fait.
 A la Saint-Didier, soleil _o_r_g_u_e_i_l_l_e_u_x, Nous annonce un été joyeux.
@@ -1238,7 +1155,7 @@ S'il pleut en juin, Le jardinier ronge son poing.
 S'il pleut à la Visitation, Pluie de Saint-Médard _c_o_n_t_i_n_u_a_t_i_o_n.
 S'il pleut à la Sainte-_M_a_r_g_u_e_r_i_t_e, Les noix seront rentrées bien
 vite.
-S'il pleut à la Saint-_U_r_b_a_i_n, C'est quarante jours de pluie en
+S'il pleut à la Saint-Urbain, C'est quarante jours de pluie en
 chemin.
 S'il pleut à la Saint-Martin le Bouillant, Il pleut six semaines
 durant.
@@ -1439,7 +1356,7 @@ A la Sainte-_M_a_r_i_e, Toutes les aubépines sont fleuries.
 A la Sainte-_M_a_d_e_l_e_i_n_e, il pleut souvent, Car elle vit son maître en
 pleurant.
 A la Sainte-_I_r_è_n_e s'il fait beau, Il y aura moins de vin que d'eau.
-A la Sainte-_H_é_l_è_n_e, La noix est pleine, Et le cerneau, Se met
+A la Sainte-Hélène, La noix est pleine, Et le cerneau, Se met
 dans l'eau.
 A la Sainte-_F_l_o_r_a, Plus rien ne fleurira.
 A la Sainte-_E_m_m_a, Tes fourrages en bas.
@@ -1467,7 +1384,7 @@ A la Saint-_O_n_é_s_i_p_h_o_r_e, La sève s'endort.
 A la Saint-_N_i_c_a_i_s_e, Le renard est souvent Blaise.
 A la Saint-_N_a_r_c_i_s_s_e les mouches, Aux pêcheurs les touches.
 A la Saint-_M_a_t_h_u_r_i_n, Des fruits rouges c'est la fin.
-A la Saint-_L_o_u_i_s, Le foin non rentré, Est à moitié gâté.
+A la Saint-Louis, Le foin non rentré, Est à moitié gâté.
 A la Saint-Léon, Mets tes artichauts en monts.
 A la Saint-_L_a_u_r_e_n_t, on le sait, On voit les étoiles filer.
 A la Saint-_L_a_n_d_r_y, s'il tonne, Restera vide la tonne.

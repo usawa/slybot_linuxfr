@@ -38,7 +38,8 @@ conjonctions = ["mais", "ou", "et", "donc", "or", "ni", "car"]
 
 Prefix = ["Ah non", "Ah oui", "Certes", "En effet", "D'accord", "Non", "Oui", "Ah bon", "pourquoi", "Tu crois",
     "Ok", "Pas certain", "Sûrement", "Bien sûr", "Pas d'accord", "Ah ouais", "Pt'être bien", "Tu veux rire",
-    "C'est certain", "Drôle", "Mais non", "Mais oui", "J'avoue", "Je plussoie", "Tes sûr"
+    "C'est certain", "Drôle", "Mais non", "Mais oui", "J'avoue", "Je plussoie", "Tes sûr", "Vraiment","Nul",
+    "Parfait", "Joli", "Même pas"
 ]
 
 ponctuation = [ ".", " ?", " !" ]
@@ -220,28 +221,39 @@ def main():
                     
                     liste_messages.extend(explode_message(clean_message(post_message)))
 
+                    # Citations aléatoires
+                    citation = False
+                    mixed_citation = False
+                    real_citation = False
+                    nb_messages = 20
+                    reponse_aleatoire = random.randint(1,25)
+                    if(reponse_aleatoire == 10):
+                        citation = True
+                    if(reponse_aleatoire == 15):
+                        mixed_citation = True
+                    if(reponse_aleatoire == 20):
+                        real_citation = True
+
                     # Prends n messages au hasard dans la base
                     # Dont le dernier
-                    for i in range(0,20):
-                        cur = sqlconn.cursor()
-                        cur.execute(sql_select_random_posts, (post_id,))
-                        (random_message,)= cur.fetchall()[0]
+                    if(citation is False):
+                        for i in range(0,nb_messages):
+                            cur = sqlconn.cursor()
+                            cur.execute(sql_select_random_posts, (post_id,))
+                            (random_message,)= cur.fetchall()[0]
 
-                        # Virer les norloges et les urls, les [], les espaces multiples, les <
-                        liste_messages.extend(explode_message(clean_message(random_message)))
+                            # Virer les norloges et les urls, les [], les espaces multiples, les <
+                            liste_messages.extend(explode_message(clean_message(random_message)))
 
-                    random.shuffle(liste_messages)
+                        random.shuffle(liste_messages)
 
-                    #Nombre de phrases à générer
-                    nbphrases = random.randint(1,2)
-                    #Nombre de propositions par phrase.
-                    longphrasemax = random.randint(1,5)
+                        #Nombre de phrases à générer
+                        nbphrases = random.randint(1,2)
+                        #Nombre de propositions par phrase.
+                        longphrasemax = random.randint(1,5)
 
-                    # Test, 1/10 est une citation
-                    citation = False
-                    if(random.randint(1,10) == 5):
-                        citation = True
-
+                    # Une citation absurde
+                    if(citation is True):
                         liste_messages = liste_dictons
                         nbphrases = random.randint(1,2)
                         longphrasemax = random.randint(1,2)
@@ -265,6 +277,10 @@ def main():
                     if(random.randint(1,5) == 2):
                         reponse = random.choice(Prefix)+ random.choice(ponctuation) + " " + reponse
 
+                    # Vraie citation
+                    if real_citation is True:
+                        reponse = random.choice(dictons)
+                        
                     print(reponse)
 
 
