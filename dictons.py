@@ -597,221 +597,177 @@ dictons = ["L'année bissextile soyez fin, semez du chanvre au lieu du lin",
 "Autant de jours le lis fleurit, Avant la Saint-Jean, Autant de jours on vendangera, Avant la Saint-Michel.",
 "A la Saint-Jean, Le raisin pend.",
 "Autant de jours, Que l'oignon de lis fleurit après la Saint-Jean.",
+"Autant de jours, Que la vendange sera retardée après la Saint-Jean.",
+"Saint-Jean, Verjus pendant, Argent comptant.",
+"Aux mois d'été, Si tu m'en crois, Laisse la femme et prends le verre!",
+"S'il pleut le jour de la Saint-Cyr, Le vin diminue jusqu'à la tire.",
+"Pluie de Saint-Guy, Laisse le vigneron marri.",
+"Pluie de Saint-Médard, Tarit le vin et coupe le lard.",
+"S'il pleut à la Saint-Médard, La vendange diminue d'un quart. Mais s'il fait beau à Saint-Barnabé, Elle diminue de moitié.",
+"Quand il pleut à la Saint-Médard, Il pleut quarante jours plus tard. Mais après, Saint-Barnabé, Défait ce que Saint-Médard a fait.",
+"Lorsque Saint-Gervais est beau, Il tire Saint-Médard de l'eau.",
+"Quand le chou passe la Saint-Gilbert, Du vigneron vide sera le verre.",
+"Beau temps à la Saint-Marcellinn, Assure le pain et le vin.",
+"Pour la Pentecôte, On doit tailler, La vigne de côte à côte.",
+"A la Pentecôte, On voit tailler la vigne de côte en côte.",
+"Homme de juin, Homme de vin, Femme de juin, Genre coquin.",
+"Année de groseille, Année de bouteille.",
+"Eau de Sainte-Pétronille, Change raisins en grapilles.",
+"S'il pleut à la Sainte-Pétronille, Les raisins tombent en guenilles.",
+"A la Saint-Urbain, Vends ton blé et ton vin.",
+"Gelée le soir à la Saint-Urbain, Anéantit fruits, pain et vin.",
+"A la Saint-Urbain, s'il fait beau, Préparez vos tonneaux.",
+"Soleil à la Saint-Urbain, Présage une année de vin.",
+"Après la Saint-Urbain, Il ne gèle vin ni pain.",
+"Le 24 mai, la vendange sera bonne, Si le temps est clair et serein. Le contraire arrivera, S'il est obscur et pluvieux.",
+"Quand la vigne est en fleur à la Saint-Thiébault, Il n'y a ni biens ni maux.",
+"Pluie à la Saint-Bernard_i_n, Vigneron pleure ton vin.",
+"S'il pleut à la Saint-Bernardin, Tu peux dire adieu à ton vin.",
+"Gelée de Saint-Bernardin, Tu peux dire adieu à ton vin.",
+"Soleil à la Saint-Eric, Promet du vin plein les barriques.",
+"S'il pleut le 5 mai, Pas de noix;, S'il pleut le 13 juin, Pas de raisin.",
+"Quand il pleut le jour de la Saint-Philippe, Il ne faut ni tonneau ni pipe.",
+"Le troisième jour des Rogations, En allant à la procession, Si l'on est un peu mouillé, Pour vendanger on sera trempé.",
+"Rogations pluvieuses, Ne font pas l'année vineuse.",
+"S'il pleut aux Rogations, Le 1er jour, il pleuvra pendant la fenaison, Le 2ème jour, il pleuvra pendant la moisson, Le 3ème jour, il pleuvra pendant la vendaison.",
+"Quand la vigne est en fleurs, Elle veut voir ni manant, ni seigneur.",
+"Si tu veux vendre ton vin, Demain n'attends pas la fin.",
+"Frais mai, épaisse tourte, Mais peu de vin dans la coupe.",
+"Quand le raisin naît en mai, Il faut s'attendre à du mauvais.",
+"Froid mai et chaud juin, Donnent pain et vin.",
+"Celui ne sait qu'est vendre vin, Qui de mai n'attend la fin.",
+"Rosée du soir et fraîcheur de mai, Appellent du vin et beaucoup de foin.",
+"Bourgeon de vigne en mai, Remplit le chai.",
+"Vin de mai (vaut), Piquette de chai.",
+"La pluie le jour de Saint-Robert, De bon vin remplira ton verre.",
+"Gelée de Saint-Fructieux, Rend le vigneron malheureux.",
+"Taille le Vendredi Saint, T'auras beaucoup de raisin.",
+"Gelée du Vendredi Saint, Gèle le pain et le vin.",
+"Pour que les rats ne mangent pas le raisin, Il faut tailler la treille le Vendredi Saint.",
+"S'il y avait deux Pâques, Et deux vendanges, Il n'y aurait plus ni famine, Ni pauvreté.",
+"Tonnerre d'avril, Réjouit le laboureur, Le vigneron, Et son baril.",
+"Bourgeon d'avril, Remplit le baril, Bourgeon de mai, Remplit le cellier.",
+"Pluie d'avril, Emplit le baril.",
+"Quand en avril partout il gèle, Le vigneron est en cervelle.",
+"Quand le raisin naît en avril, Il faut préparer son baril.",
+"Quand il pleut en avril, Tu peux réparer le fond du tonneau.",
+"Quand il tonne en avril, Le vigneron se réjouit, Et le laboureur aussi.",
+"Quand il tonne en avril, Apprête ton baril.",
+"Quand il tonne en mars, Bonhomme enfonce ton quart, Mais s'il tonne en avril, Bonhomme casse ton douzil.",
+"Georget, Marquet, Vitalet et Croiset, S'ils sont beaux, font du vin parfait.",
+"S'il fait gris, C'en est fait de la vigne.",
+"Gelée hors saison, Gâte la vigne et la maison.",
+"La lune rousse et le rous vent, Cassent les bouteilles souvent.",
+"En avril, prépare tes barils, En mai, prépare ton grenier.",
+"Bourgeon qui pousse en avril, Met peu de vin au baril.",
+"Quand en avril il tonne, Apprêtez cercles et tonnes.",
+"Si en mars gelée serre, Apprête cuve et baril, Mais si elle serre en avril, Cuve et baril desserre.",
+"S'il tonne à la Saint-Simon d'avril, Vendangeur prépare ton baril.",
+"Pluies d'avril, remplissent caves et barils.",
+"A la Saint-Gontran, espoir, S'il fait beau, pain et vin se font voir.",
+"A la Saint-Aubin, c'est du vin, Quand le buisson goutte au matin.",
+"Taille au jour de Saint-Aubin, Pour avoir de gros raisins.",
+"S'il pleut à la Saint-Aubin, Il coulera bien trop de vin.",
+"Quand il gèle à la Saint-Aubin, Il n'y a ni foin, ni vin.",
+"En mars, Ta vigne liée et taillée, Et le sol est travaillé.",
+"Taille tôt, taille tard, Rien n'est tel que taille de mars.",
+"Pain et vin viennent de toutes parts, Quand en mars le tonnerre part.",
+"Quand mars tonne, Apprête tonneaux et tonnes.",
+"Lorsqu'au mois de mars il tonne, On remplit bouteilles et tonnes.",
+"Le vigneron me taille, Le vigneron me lie, Le vigneron me baille.",
+"En mars toute ma vie.",
+"Mars sec et beau, Remplit cuves et tonneaux.",
+"De gaieté vigneron, vide vingt fois ton verre, Lorsque les pluies en mars inondent la terre.",
+"Ciel clair à la Saint-Romain, C'est beaucoup de biens et de bon vin.",
+"Vigneron à la Saint-Valentin, Doit avoir serpette en main.",
+"Soleil qui rit pour Sainte-Eulalie, Fait des pommes et des prunes, mais pas de vin.",
+"A Sainte-Agathe va à ta vigne, Si ce n'est pour y travailler, Du moins pour y déjeuner.",
+"Si le jour de la Chandeleur il fait beau, Il y aura du vin comme de l'eau.",
+"L'eau gâte moult vin, Une charrette en chemin, De Carême le corps humain.",
+"Après le Carême, Bois ton vin sans baptême.",
+"Vigne taillée en février, Emplit de raisins le panier.",
+"S'il tonne en février, Point de vin au cellier, Jette les fûts au fumier.",
+"Chandeleur borgnette, Vendange est faite.",
+"S'il tonne en février, Sors ta cuve sur le fumier.",
+"Vin soutiré en février, Est toujours bien clarifié.",
+"Si ce jour il pleut, Au vin, vigneron dit adieu.",
+"Lendemain de Saint-Vincent ensoleillé, Rend le vigneron joyeux dans son cellier.",
+"Si le ciel luit comme un chapeau, On aura du vin plein le tonneau.",
+"Soleil à la Saint-Vincent, Le vigneron s'en va en chantant.",
+"A la Saint-Vincent, vigneron, La serpe au vent.",
+"Pour Saint-Vincent le vin, Pour Saint-Jean le grain.",
+"Soleil qui luit à la Saint-Vincent, Fait monter le vin au sarment.",
+"Passé la Saint-Vincent, On peut aller tailler.",
+"A la Saint-Vincent, Petit bonhomme, mets la serpe au sarment gourde.",
+"Le jour de la Saint-Vincent, Si le soleil luit le jour, vinée",
+"complète, S'il pleut une partie du jour, demi-vinée, S'il pleut tout le jour, disette!",
+"Le soleil de la Saint-Vincent, Fait boire les vignerons jusqu'à leurs serpettes.",
+"Si le jour de la Saint-Vincent, Le soleil est clairvoyant, Il y aura beaucoup de jus au sarment.",
+"Quand il fait beau le jour de la Saint-Vincent, Il y a du vin dans le sarment.",
+"Le jour de la Saint-Vincent, Si le soleil luit comme un grand chapeau, On aura du vin plein le tonneau.",
+"Prends garde à la Saint-Vincent, Car, si tu vois et tu sens, Que le soleil est clair et beau, Nous aurons plus de vin que d'eau.",
+"A la Saint-Vincent, Le vin monte au sarment, Ou, s'il gèle, il en descend.",
+"Si le jour de la Saint-Vincent se trouble, Il met le vin au double. ",
+"S'il pleut à la Saint-Vincent, Le vin monte au sarment.",
+"A la Saint-Vincent, La goutte au sarment.",
+"A la Saint-Hilaire, Le vin gèle dans le verre.",
+"Claire nuit à l'Epiphanie, Tonneaux biens remplis.",
+"Il faut boire du vin rouge le jour des rois, Pour se faire du bon sang pour toute l'année.",
+"S'il pleut la nuit de la nouvelle année, Le laboureur n'aura guère de denrées, Et n'aura pas de bon vin, Pour noyer son pauvre chagrin.",
+"A janvier noyé mouillé, Guère de vin serré.",
+"Janvier sec et beau, Remplit cuves et tonneaux.",
+"Point de vin mouillé, S'il gèle en janvier.",
+"Si janvier ne prend son manteau, Malheur aux bois, aux moissons, aux coteaux.",
+"Janvier d'eau fait chiche le vigneron.",
+"S'il tonne en janvier, Cuves au fumier, Barils au grenier.",
+"Un janvier froid et sans neige, Fait mal aux arbres et aux vignes.",
+"Quand il tonne en janvier, Le vin remplira le cellier.",
+"Quand il tonne au mois de janvier, Monte tes barriques au grenier.",
+"Horloge à entretenir, Jeune femme à son gré servir, Vieille maison à réparer, C'est toujours à recommencer.",
+"Eau de février, Vaut jus de fumier.",
+"Quand il tonne en décembre, C'est un signe d'hiver peu rigoureux.",
+"Terre retournée et blés semés, Le ciel peut neiger.",
+"A la Saint-Martin, les pauvres ne deviendront pas riches, cette année.",
+"Le vent de novembre arrache la dernière feuille.",
+"Octobre à moitié pluvieux, Rend le laboureur joyeux, Mais le vendangeur soucieux, Met de côté son vin vieux.",
+"Soleil, étend tes rayons pour réchauffer ces pauvres bergers qui sont dans les champs.",
+"A la Saint-François, La bécasse est au bois.",
+"Si en automne ne te lève matin, A ton hiver, tu verras pauvre fin.",
+"Si le blé n'est pas semé à la Sainte-Croix, Au lieu d'un grain il en faudra mettre deux.",
+"Ce qui n'a pas muri au mois d'août, Ne murira pas mieux en septembre.",
+"le tonnerre tombera, Sainte-_B_a_r_b_e nous garderas.",
+"En juillet, Bouches noires et gosiers secs.",
+"Par la sécheresse, le bétail souffre moins que si juillet est trop humide.",
+"Pentecôte humide, Noël splendide.",
+"S'il pleut à la Saint-Médard et que Saint-Barnabé ne lui coupe pas le bec, Quarante jours de pluie s'en suivent.",
+"Aubépines en fleurs, Le temps en rigueur.",
+"Le mois de mai fait le blé;, Le mois de juin fait le foin.",
+"Beau temps à la Sainte-Croix présage une bonne année.",
+"Il n'est si gentil mois d'avril, Qu'il n'ait son chapeau de grésil.",
+"Avril le doux, S'il se fâche, pire que tout.",
+"Vent des Rameaux, Ne change pas de sitôt.",
+"A la Saint-Georges, sème tes pois et ton orge, A la Saint-Marc, il est trop tard.",
+"Avril, Un de bon sur mille.",
+"Pluie de mars, Tant vaut pisse de renard.",
+"Le bourgeon de mars, Remplit les chars, Celui d'avril, Le baril, Celui de mai, Le chai.",
+"Pour sept semaines il s'hiverne, Quand à la Chandeleur, le soleil fait lanterne.",
+"Si tu sème tes poireaux à la Sainte-Agathe, Pour une graine tu en auras quatre.",
+"Quand le crapaud chante en janvier, Serre ta paille, métayer.",
+"S'il neige à la Saint-Florian, Les récoltes seront en excédent.",
+"A Sainte-Constance, Plein hiver en France.",
+"Tel temps à la Saint-Daniel, Même temps à Noël.",
+"Il fait bon semer dans les Avents, Mais il ne faut pas le dire aux enfants.",
+"Tel Avent, Tel printemps.",
+"Le mois de l'Avent est de pluie et de vent, Tire ton bonnet jusqu'aux dents.",
+"A la Saint-Eloi, la nuit, L'emporte sur le jour qui luit.",
+"Quand Saint-Eloi a bien froid, Quatre mois dure le grand froid.",
+"A Saint-Sosthène, Il y a des chrysanthèmes.",
+"A la Sainte-Catherine, Tout bois prend racine.",
+"Quand l'hiver vient doucement, Il est là à la Saint-Clément.",
+"Quelque temps qu'il fasse en novembre, Commence le feu dans la chambre.",
 ]
 """
 
-Autant de jours, Que la vendange sera retardée après la Saint-Jean
-Saint-Jean, Verjus pendant, Argent comptant.
-Aux mois d'été, Si tu m'en crois, Laisse la femme et prends le verre!
-S'il pleut le jour de la Saint-Cyr, Le vin diminue jusqu'à la tire.
-Pluie de Saint-Guy, Laisse le vigneron marri.
-Pluie de Saint-Médard, Tarit le vin et coupe le lard.
-S'il pleut à la Saint-Médard, La vendange diminue d'un quart; -
-Mais s'il fait beau à Saint-Barnabé, Elle diminue de moitié.
-Quand il pleut à la Saint-Médard, Il pleut quarante jours plus tard. Mais après, Saint-Barnabé, Défait ce que Saint-Médard a fait., 
-Lorsque Saint-Gervais est beau, Il tire Saint-Médard de l'eau.
-Quand le chou passe la Saint-Gilbert, Du vigneron vide sera le verre.
-Beau temps à la Saint-Marcellinn, Assure le pain et le vin.
-Pour la Pentecôte, On doit tailler, La vigne de côte à côte.
-A la Pentecôte, On voit tailler la vigne de côte en côte.
-Homme de juin, Homme de vin, Femme de juin, Genre coquin.
-Année de groseille, Année de bouteille.
-Eau de Sainte-Pétronille, Change raisins en grapilles.
-S'il pleut à la Sainte-Pétronille, Les raisins tombent en guenilles.
-A la Saint-Urbain, Vends ton blé et ton vin.
-Gelée le soir à la Saint-Urbain, Anéantit fruits, pain et vin.
-A la Saint-Urbain, s'il fait beau, Préparez vos tonneaux.
-Soleil à la Saint-Urbain, Présage une année de vin.
-Après la Saint-Urbain, Il ne gèle vin ni pain.
-Le 24 mai, la vendange sera bonne, Si le temps est clair et serein -
-Le contraire arrivera, S'il est obscur et pluvieux.
-Quand la vigne est en fleur à la Saint-Thiébault, Il n'y a ni biens ni maux.
-Pluie à la Saint-Bernard_i_n, Vigneron pleure ton vin.
-S'il pleut à la Saint-Bernard_i_n, Tu peux dire adieu à ton vin.
-Gelée de Saint-Bernard_i_n, Tu peux dire adieu à ton vin.
-Soleil à la Saint-Eric, Promet du vin plein les barriques.
-S'il pleut le 5 mai, Pas de noix;, S'il pleut le 13 juin, Pas de raisin.
-Quand il pleut le jour de la Saint-Philippe, Il ne faut ni tonneau ni pipe.
-Le troisième jour des Rogations, En allant à la procession, Si l'on est un peu mouillé, Pour vendanger on sera trempé.
-Rogations pluvieuses, Ne font pas l'année vineuse.
-S'il pleut aux Rogations, Le 1er jour, il pleuvra pendant la
-fenaison, Le 2ème jour, il pleuvra pendant la moisson, Le 3ème jour, il pleuvra pendant la vendaison.
-Quand la vigne est en fleurs, Elle veut voir ni manant, ni seigneur.
-Si tu veux vendre ton vin, Demain n'attends pas la fin.
-Frais mai, épaisse tourte, Mais peu de vin dans la coupe.
-Quand le raisin naît en mai, Il faut s'attendre à du mauvais.
-Froid mai et chaud juin, Donnent pain et vin.
-Celui ne sait qu'est vendre vin, Qui de mai n'attend la fin.
-Rosée du soir et fraîcheur de mai, Appellent du vin et beaucoup de foin.
-Bourgeon de vigne en mai, Remplit le chai.
-Vin de mai (vaut), Piquette de chai.
-La pluie le jour de Saint-Robert, De bon vin remplira ton verre.
-Gelée de Saint-Fructieux, Rend le vigneron malheureux.
-Taille le Vendredi Saint, T'auras beaucoup de raisin.
-Gelée du Vendredi Saint, Gèle le pain et le vin.
-Pour que les rats ne mangent pas le raisin, Il faut tailler la treille le Vendredi Saint.
-S'il y avait deux Pâques, Et deux vendanges, Il n'y aurait plus ni famine, Ni pauvreté.
-Tonnerre d'avril, Réjouit le laboureur, Le vigneron, Et son baril.
-Bourgeon d'avril, Remplit le baril, Bourgeon de mai, Remplit le cellier.
-Pluie d'avril, Emplit le baril.
-Quand en avril partout il gèle, Le vigneron est en cervelle.
-Quand le raisin naît en avril, Il faut préparer son baril.
-Quand il pleut en avril, Tu peux réparer le fond du tonneau.
-Quand il tonne en avril, Le vigneron se réjouit, Et le laboureur aussi.
-Quand il tonne en avril, Apprête ton baril.
-Quand il tonne en mars, Bonhomme enfonce ton quart, Mais s'il
-tonne en avril, Bonhomme casse ton douzil.
-Georget, Marquet, Vitalet et Croiset, S'ils sont beaux, font du vin
-parfait.
-S'il fait gris, C'en est fait de la vigne.
-Gelée hors saison, Gâte la vigne et la maison.
-La lune rousse et le rous vent, Cassent les bouteilles souvent.
-En avril, prépare tes barils, En mai, prépare ton grenier.
-Bourgeon qui pousse en avril, Met peu de vin au baril.
-Quand en avril il tonne, Apprêtez cercles et tonnes.
-Si en mars gelée serre, Apprête cuve et baril, Mais si elle serre
-en avril, Cuve et baril desserre.
-S'il tonne à la Saint-_S_i_m_o_n d'avril, Vendangeur prépare ton baril.
-Pluies d'avril, _R_e_m_p_l_i_s_s_e_n_t caves et barils.
-A la Saint-Gontran, espoir, S'il fait beau, pain et vin se font
-voir.
-A la Saint-Aubin, c'est du vin, Quand le buisson goutte au matin.
-Taille au jour de Saint-Aubin, Pour avoir de gros raisins.
-S'il pleut à la Saint-Aubin, Il coulera bien trop de vin.
-Quand il gèle à la Saint-Aubin, Il n'y a ni foin, ni vin.
-En mars, Ta vigne liée et taillée, Et le sol est travaillé.
-Taille tôt, taille tard, Rien n'est tel que taille de mars.
-Pain et vin viennent de toutes parts, Quand en mars le tonnerre
-part.
-Quand mars tonne, Apprête tonneaux et tonnes.
-Lorsqu'au mois de mars il tonne, On remplit bouteilles et tonnes.
-Le vigneron me taille, Le vigneron me lie, Le vigneron me baille -
-En mars toute ma vie.
-Mars sec et beau, Remplit cuves et tonneaux.
-De gaieté vigneron, vide vingt fois ton verre, Lorsque les pluies
-en mars inondent la terre.
-Ciel clair à la Saint-Romain, C'est beaucoup de biens et de bon vin.
-Vigneron à la Saint-Valentin, Doit avoir serpette en main.
-Soleil qui rit pour Sainte-Eulalie, Fait des pommes et des prunes -
-Mais pas de vin.
-A Sainte-Agathe va à ta vigne, Si ce n'est pour y travailler, Du
-moins pour y déjeuner.
-Si le jour de la Chandeleur il fait beau, Il y aura du vin comme de
-l'eau.
-L'eau gâte moult vin, Une charrette en chemin, De Carême le corps
-humain.
-Après le Carême, Bois ton vin sans baptême.
-Vigne taillée en février, Emplit de raisins le panier.
-S'il tonne en février, Point de vin au cellier, Jette les fûts au
-fumier.
-Chandeleur borgnette, Vendange est faite.
-S'il tonne en février, Sors ta cuve sur le fumier.
-Vin soutiré en février, Est toujours bien clarifié.
-Si ce jour il pleut, Au vin, vigneron dit adieu.
-Lendemain de Saint-Vincent ensoleillé, Rend le vigneron joyeux dans
-son cellier.
-Si le ciel luit comme un chapeau, On aura du vin plein le tonneau.
-Soleil à la Saint-Vincent, Le vigneron s'en va en chantant.
-A la Saint-Vincent, vigneron, La serpe au vent.
-Pour Saint-Vincent le vin, Pour Saint-Jean le grain.
-Soleil qui luit à la Saint-Vincent, Fait monter le vin au sarment.
-Passé la Saint-Vincent, On peut aller tailler.
-A la Saint-Vincent, Petit bonhomme, mets la serpe au sarment
-gourde.
-Le jour de la Saint-Vincent, Si le soleil luit le jour, vinée
-complète, S'il pleut une partie du jour, demi-vinée, S'il pleut
-tout le jour, disette!
-Le soleil de la Saint-Vincent, Fait boire les vignerons jusqu'à
-leurs serpettes.
-Si le jour de la Saint-Vincent, Le soleil est _c_l_a_i_r_v_o_y_a_n_t, Il y
-aura beaucoup de jus au sarment.
-Quand il fait beau le jour de la Saint-Vincent, Il y a du vin dans
-le sarment.
-Le jour de la Saint-Vincent, Si le soleil luit comme un grand
-chapeau, On aura du vin plein le tonneau.
-Prends garde à la Saint-Vincent, Car, si tu vois et tu sens, Que le
-soleil est clair et beau, Nous aurons plus de vin que d'eau.
-A la Saint-Vincent, Le vin monte au sarment, Ou, s'il gèle, il en
-descend.
-Si le jour de la Saint-Vincent se trouble, Il met le vin au double.
-s'annonce.
-S'il pleut à la Saint-Vincent, Le vin monte au sarment.
-A la Saint-Vincent, La goutte au sarment.
-A la Saint-Hilaire, Le vin gèle dans le verre.
-Claire nuit à l'Epiphanie, Tonneaux biens remplis.
-Il faut boire du vin rouge le jour des rois, Pour se faire du bon
-sang pour toute l'année.
-S'il pleut la nuit de la nouvelle année, Le laboureur n'aura guère
-de denrées, Et n'aura pas de bon vin, Pour noyer son pauvre
-chagrin.
-A janvier noyé mouillé, Guère de vin serré.
-Janvier sec et beau, Remplit cuves et tonneaux.
-Point de vin mouillé, S'il gèle en janvier.
-Si janvier ne prend son manteau, Malheur aux bois, aux moissons,
-aux coteaux.
-Janvier d'eau fait chiche le vigneron.
-S'il tonne en janvier, Cuves au fumier, Barils au grenier.
-Un janvier froid et sans neige, Fait mal aux arbres et aux vignes.
-Quand il tonne en janvier, Le vin remplira le cellier.
-Quand il tonne au mois de janvier, Monte tes barriques au grenier.
-Horloge à entretenir, Jeune femme à son gré servir, Vieille
-maison à réparer, C'est toujours à _r_e_c_o_m_m_e_n_c_e_r.
-Eau de février, Vaut jus de fumier.
-Quand il tonne en décembre, C'est un signe d'hiver peu rigoureux.
-Terre retournée et blés semés, Le ciel peut neiger.
-A la Saint-Martin, les pauvres ne _d_e_v_i_e_n_d_r_o_n_t pas riches, cette
-année.
-Le vent de novembre arrache la dernière feuille.
-Octobre à moitié pluvieux, Rend le laboureur joyeux, Mais le
-vendangeur soucieux, Met de côté son vin vieux.
-Soleil, étend tes rayons pour réchauffer ces pauvres bergers qui sont
-dans les champs.
-A la Saint-_F_r_a_n_ç_o_i_s, La bécasse est au bois.
-Si en automne ne te lève matin, A ton hiver, tu verras pauvre fin.
-Si le blé n'est pas semé à la Sainte-Croix, Au lieu d'un grain il
-en faudra mettre deux.
-Ce qui n'a pas muri au mois d'août, Ne murira pas mieux en
-septembre.
-le tonnerre tombera, Sainte-_B_a_r_b_e nous garderas.
-En juillet, Bouches noires et gosiers secs.
-Par la sécheresse, le bétail souffre moins que si juillet est trop
-humide.
-Pentecôte humide, Noël splendide.
-S'il pleut à la Saint-Médard et que Saint-_B_a_r_n_a_b_é ne lui coupe pas le
-bec, Quarante jours de pluie s'en suivent.
-Aubépines en fleurs, Le temps en rigueur.
-Le mois de mai fait le blé;, Le mois de juin fait le foin.
-Beau temps à la Sainte-Croix présage une bonne année.
-Il n'est si gentil mois d'avril, Qu'il n'ait son chapeau de grésil.
-Avril le doux, S'il se fâche, pire que tout.
-Vent des Rameaux, Ne change pas de sitôt.
-A la Saint-_G_e_o_r_g_e_s, sème tes pois et ton orge, A la Saint-Marc, il
-est trop tard.
-Avril, Un de bon sur mille.
-Pluie de mars, Tant vaut pisse de renard.
-Le bourgeon de mars, Remplit les chars, Celui d'avril, Le baril -
-Celui de mai, Le chai.
-Pour sept semaines il s'hiverne, Quand à la Chandeleur, le soleil
-fait lanterne.
-Si tu sème tes poireaux à la Sainte-Agathe, Pour une graine tu en
-auras quatre.
-Quand le crapaud chante en janvier, Serre ta paille, métayer.
-S'il neige à la Saint-_F_l_o_r_i_a_n, Les récoltes seront en excédent.
-A Sainte-_C_o_n_s_t_a_n_c_e, Plein hiver en France.
-Tel temps à la Saint-_D_a_n_i_e_l, Même temps à Noël.
-Il fait bon semer dans les Avents, Mais il ne faut pas le dire aux
-enfants.
-Tel Avent, Tel printemps.
-Le mois de l'Avent est de pluie et de vent, Tire ton bonnet
-jusqu'aux dents.
-Quand en hiver est été, Mais en été l'hivernée, Cette
-A la Saint-Eloi, la nuit, L'emporte sur le jour qui luit.
-Quand Saint-Eloi a bien froid, Quatre mois dure le grand froid.
-A Saint-_S_o_s_t_h_è_n_e, Il y a des _c_h_r_y_s_a_n_t_h_è_m_e_s.
-A la Sainte-Catherine, Tout bois prend racine.
-Quand l'hiver vient doucement, Il est là à la Saint-_C_l_é_m_e_n_t.
-Quelque temps qu'il fasse en novembre, Commence le feu dans la
-chambre.
 Entre la Toussaint et l'Avent, _A_t_t_e_n_d_s_-_t_o_i à pluie et vent.
 Le mois de novembre est malsain, Il fait tousser dès la Toussaint.
 A la Saint-_T_a_n_g_u_y, Le temps est toujours gris.

@@ -225,7 +225,7 @@ def main():
                     citation = False
                     mixed_citation = False
                     real_citation = False
-                    nb_messages = 20
+                    nb_messages = 30
                     reponse_aleatoire = random.randint(1,25)
                     if(reponse_aleatoire == 10):
                         citation = True
@@ -279,8 +279,8 @@ def main():
 
                     # Vraie citation
                     if real_citation is True:
-                        reponse = random.choice(dictons)
-                        
+                        reponse = random.choice(dictons.dictons)
+
                     print(reponse)
 
 
