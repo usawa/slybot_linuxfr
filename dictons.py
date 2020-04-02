@@ -765,64 +765,57 @@ dictons = ["L'année bissextile soyez fin, semez du chanvre au lieu du lin",
 "A la Sainte-Catherine, Tout bois prend racine.",
 "Quand l'hiver vient doucement, Il est là à la Saint-Clément.",
 "Quelque temps qu'il fasse en novembre, Commence le feu dans la chambre.",
+"Entre la Toussaint et l'Avent, Attends-toi à pluie et vent.",
+"Le mois de novembre est malsain, Il fait tousser dès la Toussaint.",
+"A la Saint-Tanguy, Le temps est toujours gris.",
+"A Sainte-Elisabeth, Tout ce qui porte fourrure n'est point bête.",
+"Brouillard en novembre, L'hiver sera tendre.",
+"En novembre fou engendre, En août gît sa femme.",
+"Si novembre tonne, L'année suivante sera bonne.",
+"A la Saint-Brice, le temps, Sera celui du jour de l'An.",
+"Temps sanguin, Annonce pluie du lendemain.",
+"A la Saint-Martin, L'hiver est en chemin, Manchons aux bras et gants aux mains.",
+"Soleil rouge le matin, Fait trembler le marin.",
+"Lune qui naît méchante, Dans trois jours charmante.",
+"Grand soleil, petit vent, Petit soleil, grand vent.",
+"Temps cuivreux au couchant, Annonce la pluie sûrement.",
+"Quand en novembre il a tonné, L'hiver est avorté.",
+"Le cinq tu sauras, Quel mois tu auras.",
+"A Saint-Charles, La gelée parle.",
+"Les gelées de la lune rousse, De la plante brûle la pousse.",
+"Novembre, Toussaint le commande, Saint-André le voit descendre.",
+"Vent de Toussaint, Terreur de marin.",
+"Tonnerre en octobre, Vendanges peu sobres.",
+"Quand Simon et Jude n'apportent pas la pluie, Elle n'arrive qu'à la Sainte-Cécile.",
+"En octobre, Qui n'a pas de manteau, Doit en trouver un bientôt.",
+"Octobre n'est jamais passé, Sans qu'il y ait cidre brassé.",
+"A la Sainte-Ursule, Le froid recule.",
+"Octobre en brumes, Mois à rhumes.",
+"A la Saint-René, Couvre ton nez!",
+"A la Saint-Luc, La pluie du vallon, Fait de la neige sur le mont.",
+"Si octobre est chaud, Février sera froid.",
+"Coupe ton chou à la Saint-Gall, En hiver, c'est un vrai régal.",
+"Quand octobre prend sa fin, Dans la cuve est le raisin.",
+"Beaucoup de pluie en octobre, Beaucoup de vent en décembre.",
+"Quand août n'est pas pluvieux, Septembre est souvent radieux.",
+"Brouillard d'octobre, pluie de novembre, Beaucoup de biens du ciel font descendre.",
+"Beau temps à la Saint-Denis, Hiver pourri.",
+"A Saint-Serge, Achetez vos habits de serge.",
+"Quand on sème à la Saint-Bruno, La rouille s'y mettra bientôt.",
+"A la Saint-Placide, Le verger est vide.",
+"A la Saint-François d'Assise, Si tu bâtis, sois prudent pour tes assises.",
+"Octobre en gelées, Chenilles trépassées.",
+"Ne sème point au jour de Saint-Léger, Si tu veux blé trop léger. Mais n'attends pas la Saint-Bruno, Ton blé serait tout noiraud.",
+"Octobre en bruine, Hiver en ruine.",
+"A la Saint-Jérôme, Hoche tes pommes.",
+"Quand les hirondelles voient la Saint-Michel, L'hiver ne vient qu'à Noël.",
+"Pluie de Saint-Michel sans orage, D'un hiver doux est le présage.",
+"A la Saint-Firmin, L'hiver est en chemin.",
+"En septembre, la bruine, Est toujours bonne à la vigne.",
+"Semis de Saint-Maurice, Récolte à ton caprice!",
+"Quand il pleut à la Saint-Matthieu, Fais coucher tes vaches et tes boeufs.",
 ]
 """
-
-Entre la Toussaint et l'Avent, _A_t_t_e_n_d_s_-_t_o_i à pluie et vent.
-Le mois de novembre est malsain, Il fait tousser dès la Toussaint.
-A la Saint-_T_a_n_g_u_y, Le temps est toujours gris.
-A Sainte-_E_l_i_s_a_b_e_t_h, Tout ce qui porte fourrure n'est point bête.
-Brouillard en novembre, L'hiver sera tendre.
-En novembre fou engendre, En août gît sa femme.
-Si novembre tonne, L'année suivante sera bonne.
-A la Saint-_B_r_i_c_e, le temps, Sera celui du jour de l'An.
-Temps sanguin, Annonce pluie du lendemain.
-A la Saint-Martin, L'hiver est en chemin, Manchons aux bras et
-gants aux mains.
-Soleil rouge le matin, Fait trembler le marin.
-Lune qui naît méchante, Dans trois jours charmante.
-Grand soleil, petit vent, Petit soleil, grand vent.
-Temps cuivreux au couchant, Annonce la pluie sûrement.
-Quand en novembre il a tonné, L'hiver est avorté.
-Le cinq tu sauras, Quel mois tu auras.
-A Saint-_C_h_a_r_l_e_s, La gelée parle.
-Les gelées de la lune rousse, De la plante brûle la pousse.
-Novembre, Toussaint le commande, Saint-André le voit descendre.
-Vent de Toussaint, Terreur de marin.
-Tonnerre en octobre, Vendanges peu sobres.
-Quand Simon et Jude n'apportent pas la pluie, Elle n'arrive qu'à la
-En octobre, Qui n'a pas de manteau, Doit en trouver un bientôt.
-Octobre n'est jamais passé, Sans qu'il y ait cidre brassé.
-A la Sainte-_U_r_s_u_l_e, Le froid recule.
-Octobre en brumes, Mois à rhumes.
-A la Saint-René, Couvre ton nez!
-A la Saint-Luc, La pluie du vallon, Fait de la neige sur le mont.
-Si octobre est chaud, Février sera froid.
-Coupe ton chou à la Saint-Gall, En hiver, c'est un vrai régal.
-Quand octobre prend sa fin, Dans la cuve est le raisin.
-Beaucoup de pluie en octobre, Beaucoup de vent en décembre.
-Quand août n'est pas pluvieux, Septembre est souvent radieux.
-Brouillard d'octobre, pluie de novembre, Beaucoup de biens du ciel
-font descendre.
-Beau temps à la Saint-_D_e_n_i_s, Hiver pourri, S'il pleut à la Saint-
-A Saint-_S_e_r_g_e, Achetez vos habits de serge.
-Quand on sème à la Saint-_B_r_u_n_o, La rouille s'y mettra bientôt.
-A la Saint-_P_l_a_c_i_d_e, Le verger est vide.
-A la Saint-_F_r_a_n_ç_o_i_s d'Assise, Si tu bâtis, sois prudent pour tes
-assises.
-Octobre en gelées, Chenilles trépassées.
-Ne sème point au jour de Saint-_L_é_g_e_r, Si tu veux blé trop léger. -
-Mais n'attends pas la Saint-_B_r_u_n_o, Ton blé serait tout noiraud.
-Octobre en bruine, Hiver en ruine.
-A la Saint-_J_é_r_ô_m_e, Hoche tes pommes.
-Quand les _h_i_r_o_n_d_e_l_l_e_s voient la Saint-Michel, L'hiver ne vient qu'à
-Noël, Pluie de Saint-Michel sans orage, D'un hiver doux est le
-présage.
-A la Saint-_F_i_r_m_i_n, L'hiver est en chemin.
-En septembre, la bruine, Est toujours bonne à la vigne.
-Semis de Saint-_M_a_u_r_i_c_e, Récolte à ton caprice!
-Quand il pleut à la Saint-Matthieu, Fais coucher tes vaches et tes
-boeufs.
 Qui sème à la Saint-_J_a_n_v_i_e_r, De l'an récolte le premier.
 Froid à la Saint-Joseph, Annonce pour bientôt la neige.
 Le jour de la Saint-_L_a_m_b_e_r_t, Qui quitte sa place la perd.
