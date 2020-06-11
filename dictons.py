@@ -174,7 +174,7 @@ dictons = ["L'année bissextile soyez fin, semez du chanvre au lieu du lin",
 "A la Sainte-Catherine, L'hiver s'aberline, A la Saint-André, Il est aberliné.",
 "Beau temps à Sainte-Eulalie, Pommes et cidre à la folie.",
 "De Barnabé la journée clairette, De Saint-Médard rachète.",
-"Soleil à la Saint-_B_a_r_n_a_b_é, Saint-Médard a le nez cassé.",
+"Soleil à la Saint-Barnabé, Saint-Médard a le nez cassé.",
 "Pluie fine à la Saint-_A_u_g_u_s_t_i_n, C'est comme s'il pleuvait du vin.",
 "A la Saint-Antoine, Les jours croissent d'un pas de moine.",
 "A la Saint-Martin, L'hiver est en chemin, A la Saint-André, Il est acheminé.",
@@ -814,160 +814,131 @@ dictons = ["L'année bissextile soyez fin, semez du chanvre au lieu du lin",
 "En septembre, la bruine, Est toujours bonne à la vigne.",
 "Semis de Saint-Maurice, Récolte à ton caprice!",
 "Quand il pleut à la Saint-Matthieu, Fais coucher tes vaches et tes boeufs.",
+"Qui sème à la Saint-Janvier, De l'an récolte le premier.",
+"Froid à la Saint-Joseph, Annonce pour bientôt la neige.",
+"Le jour de la Saint-Lambert, Qui quitte sa place la perd.",
+"Bel automne vient plus souvent, Que beau printemps.",
+"A la Sainte-Aubierge, Vole le fil de la Vierge.",
+"Le coq, en septembre, chantant la matinée, Annonce une abondante rosée.",
+"A la Sainte-Inès, Travaille sans cesse.",
+"Septembre emporte les ponts, Ou tarit les fontaines.",
+"A la bonne Dame de septembre, Tout fruit est bon à prendre.",
+"A la Sainte-Reine, Sème tes graines.",
+"Septembre nous produit, Le plus délectable des fruits.",
+"En septembre, si tu es prudent, Achète grains et vêtements.",
+"Septembre se nomme, Le mai de l'automne.",
+"A la Saint-Loup, La lampe au clou.",
+"En août et en vendanges, Il n'y a ni fêtes, ni dimanches.",
+"A la Saint-Fiacre, soleil ardent, Pour huit jours encore, du beau temps.",
+"Pluie à la Sainte-Sabine, Est une grâce divine.",
+"C'est comme s'il pleuvait du vin, Fine pluie à Saint-Augustin.",
+"Qui pluie demande à Saint-Ebbon, N'est pas laissé à l'abandon.",
+"Soleil rouge en août, C'est de la pluie partout.",
+"Beau temps pour la Saint-Louis, Plusieurs jours sans pluie.",
+"A la Saint-Barthélémy, La grenouille sort de son nid.",
+"A la Sainte-Rose, Pour le travailleur, pas de pause.",
+"Pluie de la Saint-Fabrice, Ne rend pas le paysan riche.",
+"Je suis le mois où nul loisir, On ne peut prendre ou séjourner, mais faucher, faner par plaisir, Mettre en grange, battre et vanner.",
+"Quand arrive la Saint-Bernard, Si tu n'es pas en retard, Ton blé n'est plus sous le hangar, Et le moissoneur a sa part.",
+"A la mi-août, Les noix ont le ventre roux.",
+"Il faut cueillir les choux, L'un des trois premiers jours d'août.",
+"S'il pleut à la Sainte-Clarisse, C'est souvent comme vache qui pisse.",
+"Si, le jour de Sainte-Claire, La journée est chaude et claire, Comptez sur les fruits à couteau, A coup sûr ils seront beaux.",
+"Froidure à la Saint-Laurent, Froidure à la Saint-Vincent.",
+"Ce qu'août ne mûrit pas, Ce n'est pas septembre qui le fera.",
+"En août, de l'aube au soir, On n'a qu'une heure pour s'asseoir.",
+"Au mois d'août, Le vent est fou.",
+"En août, quiconque dormira, Sur midi, s'en repentira.",
+"Qui se marie le 1er août, La corde il se met au cou.",
+"Chaleur le jour de Saint-Germain, Met à tous le pain dans la main.",
+"A la Sainte-Juliette, L'été est en fête.",
+"Mauvais temps le jour de Sainte-Marthe, N'est rien, car il faut qu'il parte.",
+"Si le jour de Saint-Samson le pinson est au buisson, Tu peux, bon vigneron défoncer ton poinçon.",
+"De Sainte-Anne à Saint-Laurent, Plante des raves en tout temps.",
+"Si Saint-Jacques est serein, L'hiver sera dur et chagrin.",
+"A la Sainte-Christine, Les blés perdent leurs racines.",
+"Nuages de la Sainte-Brigitte, Par le soleil sont chassés vite.",
+"Elle remplit le grenier de froment.",
+"Entre juillet et août, Le boire est de bon goût.",
+"A la Sainte-Marguerite, Forte pluie est maudite.",
+"Juillet sans orage, Famine au village.",
+"En juillet, mois d'abondance, Le pauvre a toujours sa pitance.",
+"Qui veut bon navet, Le sème en juillet.",
+"Tel juillet, Tel janvier.",
+"Pluie du matin, En juillet est bonne au vin.",
+"Quand reviendra la Saint-Henri, Tu planteras ton céleri.",
+"Juillet, orage de nuit, Peu de mal, mais que de bruit!",
+"En juillet, Faucille au poignet.",
+"Au 9 juillet on entend, Du coucou le dernier chant.",
+"De juillet la chaleur, Fait de septembre la valeur.",
+"Jamais, en juillet, sécheresse, N'a causé la moindre détresse.",
+"Si le début de juillet est pluvieux, Le restant du mois sera douteux.",
+"Pour la Sainte-Berthe, Se cueille l'amande verte., Si elle n'est pleine que de lait, Il faut laisser mûrir le blé.",
+"A Saint-Anatole, Confitures dans la casserole!",
+"La pluie de la Visitation, Tombe six semaines sur la maison.",
+"Le sage dit qu'à la Sainte-Audrey, Mieux vaut suer que grelotter.",
+"A la Saint-Alban, On peut poser ses vêtements.",
+"Eté bien doux, Hiver en courroux.",
+"Pluie de la Saint-Florentin, Dure jusqu'au lendemain.",
+"Soleil à la Saint-_Hervé, Fait présager d'un bel été.",
+"Pluie de Saint-Aurélien, Va durer jusqu'à la fin.",
+"Si juin fait la quantité, Septembre fait la qualité.",
+"Pour la Saint-Antoine, Les jours croissent comme la barbe d'un moine.",
+"Abeilles en mai valent un louis d'or, Abeilles en juin, c'est chance encore.",
+"A la Saint-Barnabé, La faux au pré, En juillet, Faucille au poignet.",
+"Juin, juillet, en fraîcheur, En août, orages et chaleurs.",
+"Juin fait pousser le lin, Et juillet le rend fin.",
+"S'il pleut à la Saint-Médard, Il pleut quarante jours plus tard, A moins que Saint-Barnabé, Ne vienne l'arrêter.",
+"Juin froid et pluvieux, Tout l'an sera grincheux.",
+"Qui en juin se porte bien, Au temps chaud ne craindra rien.",
+"En juin, brume obscure, Trois jours seulement dure.",
+"Eau de juin, Ruine le moulin.",
+"S'il pleut à la Sainte-Pétronille, Pendant quarante jours elle trempe ses guenilles.",
+"Si le dicton dit vrai, Méchante femme s'épouse en mai.",
+"Soleil de Saint-Germain, Nous promet du bon vin.",
+"Quand la Saint-Urbain est passée, Le vigneron est rassuré.",
+"Celui qui s'allège avant le mois de mai, Certainement ne sait pas ce qu'il fait.",
+"A la Saint-Didier, soleil orgueilleux, Nous annonce un été joyeux.",
+"En mai, Fleurit le hêtre et chante le geai.",
+"Sel de mai, sel de ce mois, N'enrichit pas le bourgeois.",
+"Brouillard de mai, chaleur de juin, Amènent la moisson à point.",
+"Du mois de mai la chaleur, De tout l'an fait la valeur.",
+"A la Saint-Honoré, S'il fait gelée, Le vin diminue de moitié.",
+"A la Sainte-Denise, Le froid n'en fait plus à sa guise.",
+"Au jour de Saint-Boniface, Toute boue s'efface. laissent souvent trace.",
+"Les trois saints au sang de navet, Pancrace, Mamert et Servais, Sont bien nommés les saints de glace, Mamert, Servais et Pancrace.",
+"A Sainte-Félicie, Tous les lilas sont fleuris.",
+"Plus mai est chaud, Plus l'an vaut.",
+"S'il pleut à la petite Saint-Jean, Toute l'année s'en ressent, Jusqu'à la grande Saint-Jean.",
+"Le mois de mai de l'année, Décide la destinée.",
+"Lorsqu'il pleut le 3 mai, Point de noix au noyer.",
+"Mai sans rose, Rend l'âme morose.",
+"De la pluie le premier jour de mai, Ote aux fourrages de la qualité.",
+"Caprices d'avril font tomber les fleurs, Et trembler les laboureurs.",
+"A la Sainte-Zita, Le froid ne dure pas.",
+"Saint-Mars mouillé au petit jour, C'est de la pluie pour tout le jour.",
+"Avril a trente jours., Si trente et un il avait, Personne ne s'en plaindrait.",
+"Quand il pleut le jour de Saint-Georges, Sur cent cerises, on a quatorze.",
+"Tel temps à la Saint-Anselme, Tel temps pendant une semaine.",
+"Le vin d'avril est un vin de Dieu, Le vin de mai est un vin de laquais.",
+"Beau temps à la Saint-Anicet, Est l'annonce d'un bel été.",
+"A la mi-avril, Le blé est à l'épi.",
+"Avril frais et mai chaud, Remplissent les granges jusqu'en haut.",
+"A la Saint-Jules, mauvais temps, N'est pas installé pour longtemps.",
+"S'il gèle à la Saint-Stanislas, On aura deux jours de glace.",
+"Quand avril est froid et pluvieux, Les moissons n'en vont que mieux.",
+"Mars gris, avril pluvieux, Font l'an fertile et plantureux.",
+"En avril, le sureau doit fleurir, Sinon, le paysan va souffrir.",
+"Avril entrant comme un agneau, S'en retourne comme un taureau.",
+"A la Saint-Isidore, si le soleil dore, Le blé sera haut et chenu, Mais le pommier sera nu.",
+"Le 3 avril, Le coucou chante, Mort ou vif.",
+"Souvent, la Saint-Amédée, Est de mars la plus belle journée.",
+"S'il gèle à la Saint-Gontran, Le blé ne deviendra pas grand.",
+"En mars autant de gelées, En avril autant de poussées.",
+"Le 25 mars, le compagnon, Rend la chandelle au patron.",
+"C'est en mars que le printemps chante, Et que le rhumatisme augmente."
 ]
 """
-Qui sème à la Saint-_J_a_n_v_i_e_r, De l'an récolte le premier.
-Froid à la Saint-Joseph, Annonce pour bientôt la neige.
-Le jour de la Saint-_L_a_m_b_e_r_t, Qui quitte sa place la perd.
-Bel automne vient plus souvent, Que beau printemps.
-A la Sainte-_A_u_b_i_e_r_g_e, Vole le fil de la Vierge.
-Le coq, en septembre, chantant la matinée, Annonce une abondante
-rosée.
-A la Sainte-_I_n_è_s, Travaille sans cesse.
-Septembre emporte les ponts, Ou tarit les fontaines.
-A la bonne Dame de septembre, Tout fruit est bon à prendre.
-A la Sainte-_R_e_i_n_e, Sème tes graines.
-Septembre nous produit, Le plus délectable des fruits.
-En septembre, si tu es prudent, Achète grains et vêtements.
-Septembre se nomme, Le mai de l'automne.
-A la Saint-Loup, La lampe au clou.
-En août et en vendanges, Il n'y a ni fêtes, ni dimanches.
-A la Saint-_F_i_a_c_r_e, soleil ardent, Pour huit jours encore, du beau
-temps.
-Pluie à la Sainte-_S_a_b_i_n_e, Est une grâce divine.
-C'est comme s'il pleuvait du vin, Fine pluie à Saint-_A_u_g_u_s_t_i_n.
-Qui pluie demande à Saint-_E_b_b_o_n, N'est pas laissé à l'abandon.
-Soleil rouge en août, C'est de la pluie partout.
-Beau temps pour la Saint-Louis, Plusieurs jours sans pluie.
-A la Saint-Barthélémy, La grenouille sort de son nid.
-A la Sainte-_R_o_s_e, Pour le _t_r_a_v_a_i_l_l_e_u_r, pas de pause.
-Pluie de la Saint-_F_a_b_r_i_c_e, Ne rend pas le paysan riche.
-Je suis le mois où nul loisir, On ne peut prendre ou séjourner, -
-Mais faucher, faner par plaisir, Mettre en grange, battre et
-vanner.
-Quand arrive la Saint-Bernard, Si tu n'es pas en retard, Ton blé
-n'est plus sous le hangar, Et le _m_o_i_s_s_o_n_n_e_u_r a sa part.
-A la mi-août, Les noix ont le ventre roux.
-Il faut cueillir les choux, L'un des trois premiers jours d'août.
-S'il pleut à la Sainte-_C_l_a_r_i_s_s_e, C'est souvent comme vache qui
-pisse.
-Si, le jour de Sainte-_C_l_a_i_r_e, La journée est chaude et claire, -
-Comptez sur les fruits à couteau, A coup sûr ils seront beaux.
-Froidure à la Saint-_L_a_u_r_e_n_t, Froidure à la Saint-Vincent.
-Ce qu'août ne mûrit pas, Ce n'est pas septembre qui le fera.
-En août, de l'aube au soir, On n'a qu'une heure pour s'asseoir.
-Au mois d'août, Le vent est fou.
-En août, quiconque dormira, Sur midi, s'en repentira.
-Qui se marie le 1er août, La corde il se met au cou.
-Chaleur le jour de Saint-_G_e_r_m_a_i_n, Met à tous le pain dans la main.
-A la Sainte-Juliette, L'été est en fête.
-Mauvais temps le jour de Sainte-Marthe, N'est rien, car il faut
-qu'il parte.
-Si le jour de Saint-_S_a_m_s_o_n le pinson est au buisson, Tu peux, bon
-vigneron défoncer ton poinçon.
-De Sainte-_A_n_n_e à Saint-_L_a_u_r_e_n_t, Plante des raves en tout temps.
-Si Saint-_J_a_c_q_u_e_s est serein, L'hiver sera dur et chagrin.
-A la Sainte-_C_h_r_i_s_t_i_n_e, Les blés perdent leurs racines.
-Nuages de la Sainte-Brigitte, Par le soleil sont chassés vite.
-Elle remplit le grenier de froment.
-Entre juillet et août, Le boire est de bon goût.
-A la Sainte-_M_a_r_g_u_e_r_i_t_e, Forte pluie est maudite.
-Juillet sans orage, Famine au village.
-En juillet, mois d'abondance, Le pauvre a toujours sa pitance.
-Qui veut bon navet, Le sème en juillet.
-Tel juillet, Tel janvier.
-Pluie du matin, En juillet est bonne au vin.
-Quand reviendra la Saint-Henri, Tu planteras ton céleri.
-Juillet, orage de nuit, Peu de mal, mais que de bruit!
-En juillet, Faucille au poignet.
-Au 9 juillet on entend, Du coucou le dernier chant.
-De juillet la chaleur, Fait de septembre la valeur.
-Jamais, en juillet, sécheresse, N'a causé la moindre détresse.
-Si le début de juillet est pluvieux, Le restant du mois sera
-douteux.
-Pour la Sainte-Berthe, Se cueille l'amande verte., Si elle n'est
-pleine que de lait, Il faut laisser mûrir le blé.
-A Saint-_A_n_a_t_o_l_e, Confitures dans la casserole!
-La pluie de la Visitation, Tombe six semaines sur la maison.
-Le sage dit qu'à la Sainte-_A_u_d_r_e_y, Mieux vaut suer que grelotter.
-A la Saint-_A_l_b_a_n, On peut poser ses vêtements.
-Eté bien doux, Hiver en courroux.
-Pluie de la Saint-Florent_i_n, Dure jusqu'au lendemain.
-Soleil à la Saint-_H_e_r_v_é, Fait présager d'un bel été.
-Pluie de Saint-Aurélien, Va durer jusqu'à la fin.
-Si juin fait la quantité, Septembre fait la qualité.
-Pour la Saint-Antoine, Les jours croissent comme la barbe d'un
-moine.
-Abeilles en mai valent un louis d'or, Abeilles en juin, c'est
-chance encore.
-A la Saint-_B_a_r_n_a_b_é, La faux au pré, En juillet, Faucille au
-poignet.
-Juin, juillet, en fraîcheur, En août, orages et chaleurs.
-Juin fait pousser le lin, Et juillet le rend fin.
-S'il pleut à la Saint-Médard, Il pleut quarante jours plus tard, -
-A moins que Saint-_B_a_r_n_a_b_é, Ne vienne l'arrêter.
-Juin froid et pluvieux, Tout l'an sera grincheux.
-Qui en juin se porte bien, Au temps chaud ne craindra rien.
-En juin, brume obscure, Trois jours seulement dure.
-Eau de juin, Ruine le moulin.
-S'il pleut à la Sainte-Pétronille, Pendant quarante jours elle
-trempe ses guenilles.
-Si le dicton dit vrai, Méchante femme s'épouse en mai.
-Soleil de Saint-_G_e_r_m_a_i_n, Nous promet du bon vin.
-Quand la Saint-Urbain est passée, Le vigneron est rassuré.
-Celui qui s'allège avant le mois de mai, _C_e_r_t_a_i_n_e_m_e_n_t ne sait pas
-ce qu'il fait.
-A la Saint-Didier, soleil _o_r_g_u_e_i_l_l_e_u_x, Nous annonce un été joyeux.
-En mai, Fleurit le hêtre et chante le geai.
-Sel de mai, sel de ce mois, N'enrichit pas le bourgeois.
-Brouillard de mai, chaleur de juin, Amènent la moisson à point.
-Du mois de mai la chaleur, De tout l'an fait la valeur.
-A la Saint-Honoré, S'il fait gelée, Le vin diminue de moitié.
-A la Sainte-Denise, Le froid n'en fait plus à sa guise.
-Au jour de Saint-Boniface, Toute boue s'efface.
-laissent souvent trace.
-Les trois saints au sang de navet, Pancrace, Mamert et Servais, -
-Sont bien nommés les saints de glace, Mamert, Servais et Pancrace.
-A Sainte-Félicie, Tous les lilas sont fleuris.
-Plus mai est chaud, Plus l'an vaut.
-S'il pleut à la petite Saint-Jean, Toute l'année s'en ressent, -
-Jusqu'à la grande Saint-Jean.
-Le mois de mai de l'année, Décide la destinée.
-Lorsqu'il pleut le 3 mai, Point de noix au noyer.
-Mai sans rose, Rend l'âme morose.
-De la pluie le premier jour de mai, Ote aux fourrages de la
-qualité.
-Caprices d'avril font tomber les fleurs, Et trembler les
-laboureurs.
-A la Sainte-Zita, Le froid ne dure pas.
-Saint-Mars mouillé au petit jour, C'est de la pluie pour tout le
-jour.
-Avril a trente jours., Si trente et un il avait, Personne ne s'en
-plaindrait.
-Quand il pleut le jour de Saint-_G_e_o_r_g_e_s, Sur cent cerises, on a
-quatorze.
-Tel temps à la Saint-Anselme, Tel temps pendant une semaine.
-Le vin d'avril est un vin de Dieu, Le vin de mai est un vin de
-laquais.
-Beau temps à la Saint-Anicet, Est l'annonce d'un bel été.
-A la mi-avril, Le blé est à l'épi.
-Avril frais et mai chaud, _R_e_m_p_l_i_s_s_e_n_t les granges jusqu'en haut.
-A la Saint-Jules, mauvais temps, N'est pas installé pour longtemps.
-S'il gèle à la Saint-Stanislas, On aura deux jours de glace.
-Quand avril est froid et pluvieux, Les moissons n'en vont que
-mieux.
-Mars gris, avril pluvieux, Font l'an fertile et plantureux.
-En avril, le sureau doit fleurir, Sinon, le paysan va souffrir.
-Avril entrant comme un agneau, S'en retourne comme un taureau.
-A la Saint-Isidore, si le soleil dore, Le blé sera haut et chenu, -
-Mais le pommier sera nu.
-Le 3 avril, Le coucou chante, Mort ou vif.
-Souvent, la Saint-Amédée, Est de mars la plus belle journée.
-S'il gèle à la Saint-Gontran, Le blé ne deviendra pas grand.
-En mars autant de gelées, En avril autant de poussées.
-Le 25 mars, le compagnon, Rend la chandelle au patron.
-C'est en mars que le printemps chante, Et que le rhumatisme
-augmente.
 S'il pleut à la Saint-Victorien, On ne ramassera que du foin.
 Le mois de mars doit être sec, Avril humide et mai frisquet, Pour
 que juin tienne ce qu'il promet.
@@ -1205,7 +1176,7 @@ les douze mois de l'année.
 Les bains que prend Saint-_N_o_r_b_e_r_t, Inondent toute la terre.
 Le temps qu'il fait le jour de la Sainte-_I_s_a_b_e_l_l_e dure jusqu'aux
 Rameaux.
-Le soleil de Saint-_B_a_r_n_a_b_é, A Saint-Médard casse le nez.
+Le soleil de Saint-Barnabé, A Saint-Médard casse le nez.
 Le mois d'août est toujours chaud, quand le premier de l'an est beau.
 La veille de la Chandeleur, L'hiver prend fin ou prend vigueur.
 La pluie du jour de Saint-_L_a_m_b_e_r_t, Il y en a pour neuf jours.
